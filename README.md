@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB" alt="Frontend">
   <img src="https://img.shields.io/badge/Backend-Python-3776AB" alt="Backend">
   
-  <h1>🩺 Dr. AUST</h1>
+  <h1>🩺 Dr. AUST - A Bilingual AI Healthcare Chatbot</h1>
   <h3>A Bilingual AI Chatbot for Disease & Symptom Detection and Specialist Recommendation</h3>
 </div>
 
@@ -90,7 +90,7 @@ npm start
 <p>
   This project was researched and developed as part of an Undergraduate Thesis at the <b>Department of Computer Science and Engineering (CSE)</b> at <b>Ahsanullah University of Science and Technology (AUST)</b>.
 </p>
-<p><b>Lead Developer & Researcher:</b> Romel</p>
+<p><b>Lead Developer & Researcher:</b> Ibn Omar Romel</p>
 
 <div align="center">
   <p>© 2026 | Dr. AUST AI Healthcare Project</p>
