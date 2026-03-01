@@ -1,0 +1,2188 @@
+{
+    "abdominal_pain": [
+        "pain",
+        "stomach ache",
+        "belly pain",
+        "stomach cramps",
+        "pain in stomach",
+        "tummy hurt",
+        "stomach pain",
+        "pain in abdomen",
+        "lower abdominal pain",
+        "belly ache",
+        "cramping pain",
+        "pain around my stomach area",
+        "my stomach feels tight and sore",
+        "sharp pain in my tummy",
+        "aching feeling in my belly",
+        "stomach discomfort that comes and goes",
+
+        "পেট ব্যথা",
+        "তলপেটে ব্যথা",
+        "পেট কামড়াচ্ছে",
+        "পেট মোচড় দিয়ে ব্যথা",
+        "পেটে যন্ত্রণা",
+        "নাভির চারপাশে ব্যথা",
+        "পেট ভটভট করছে",
+        "পেট টনটন করছে",
+        "গ্যাস্ট্রিকের পেইন",
+        "pet betha",
+        "pete betha",
+        "bettha"
+    ],
+
+    "abnormal_menstruation": [
+        "period",
+        "irregular periods",
+        "period problems",
+        "missed period",
+        "heavy bleeding",
+        "late period",
+        "early period",
+        "heavy period",
+        "period issues",
+        "spotting between periods",
+        "painful periods",
+        "cycles are all over the place",
+        "period comes at random times",
+        "unusually long or short periods",
+        "bleeding pattern feels abnormal",
+        "my period timing is unpredictable",
+
+        "মাসিক",
+        "অনিয়মিত মাসিক",
+        "মাসিকের সমস্যা",
+        "পিরিয়ড ঠিকমতো হচ্ছে না",
+        "মাসিক বন্ধ আছে",
+        "অতিরিক্ত রক্তপাত",
+        "পিরিয়ড মিস হয়েছে",
+        "মাসিকের সময় পেট ব্যথা",
+        "মাসিক লেট হয়েছে",
+        "ব্লিডিং বেশি হচ্ছে",
+        "ডেটের আগে পিরিয়ড হয়েছে",
+        "masik",
+        "period"
+    ],
+
+    "acidity": [
+        "gas",
+        "acidity",
+        "heartburn",
+        "acid reflux",
+        "chest burning",
+        "sour stomach",
+        "indigestion",
+        "burning in chest",
+        "sour burp",
+        "upset stomach",
+        "burning feeling in stomach",
+        "acidic taste in mouth",
+        "burning sensation after eating",
+        "feels like acid coming up",
+        "hot feeling in upper stomach",
+        "stomach feels too acidic",
+
+        "গ্যাস",
+        "বুক জ্বালাপোড়া",
+        "বদহজম",
+        "টক ঢেঁকুর",
+        "পেট ফাঁপা",
+        "গ্যাস্ট্রিক",
+        "বুক জ্বলছে",
+        "খাবার হজম হচ্ছে না",
+        "গলা জ্বালাপোড়া করছে",
+        "এসিডিটি",
+        "gas"
+    ],
+
+    "acute_liver_failure": [
+        "liver failure",
+        "yellow skin",
+        "yellow eyes",
+        "jaundice",
+        "severe stomach swelling",
+        "abdominal swelling",
+        "feeling very confused",
+        "mental confusion",
+        "very sleepy",
+        "extreme drowsiness",
+        "vomiting blood",
+        "bleeding easily",
+        "skin looks unusually pale or yellowish",
+        "feeling extremely weak suddenly",
+        "losing mental clarity rapidly",
+        "struggling to stay awake",
+        "swelling all over the body",
+
+        "জন্ডিস",
+        "চোখ হলুদ হয়ে যাওয়া",
+        "গা হলুদ হয়ে যাওয়া",
+        "পেট ফুলে যাওয়া",
+        "রক্ত বমি",
+        "পেটে পানি আসা",
+        "অজ্ঞান হয়ে যাওয়া",
+        "শরীর খুব দুর্বল",
+        "চামড়া ফ্যাকাশে হয়ে যাওয়া",
+        "প্রচণ্ড ঘুম পাওয়া",
+        "কথা জড়িয়ে যাওয়া",
+        "সহজেই রক্তপাত হওয়া"
+    ],
+
+    "altered_sensorium": [
+        "dazed",
+        "confusion",
+        "mental confusion",
+        "disoriented",
+        "not feeling like myself",
+        "feeling strange",
+        "less alert",
+        "not alert",
+        "delirious",
+        "feeling out of it",
+        "mind feels foggy",
+        "can't think clearly",
+        "slow or confused thinking",
+        "hard to stay mentally present",
+        "feeling mentally switched off",
+
+        "মাথা কাজ করছে না",
+        "ঘোরের মধ্যে থাকা",
+        "অসংলগ্ন কথা বলা",
+        "দিকভ্রান্ত মনে হওয়া",
+        "ঝিমুনি ভাব",
+        "মাথা ঝিমঝিম করা",
+        "চেতনা কমে যাওয়া",
+        "কিছু মনে করতে না পারা",
+        "ভুলভাল বকা",
+        "অস্বাভাবিক আচরণ"
+    ],
+
+    "anxiety": [
+        "anxiety",
+        "panic",
+        "anxious",
+        "feeling anxious",
+        "nervousness",
+        "feeling nervous",
+        "panic attacks",
+        "restlessness",
+        "worry",
+        "feeling worried",
+        "on edge",
+        "uneasiness",
+        "heart feels jumpy",
+        "constant overthinking",
+        "mind won't calm down",
+        "tight feeling in chest from worry",
+        "feeling like something bad might happen",
+
+        "টেনশন",
+        "দুশ্চিন্তা",
+        "বুক ধড়ফড় করা",
+        "ভয় লাগা",
+        "অস্থিরতা",
+        "হাত পা কাঁপা",
+        "প্যানিক অ্যাটাক",
+        "বুক ধরফরানি",
+        "উদ্বেগ",
+        "মানসিক চাপ",
+        "মাথা গরম হয়ে থাকা",
+        "ভয় ভয় লাগছে",
+        "tension",
+        "bhoy"
+    ],
+
+    "back_pain": [
+        "back pain",
+        "pain in back",
+        "lower back pain",
+        "upper back pain",
+        "backache",
+        "sore back",
+        "pain in lower back",
+        "pain in upper back",
+        "back hurt",
+        "my back hurts",
+        "back feels stiff",
+        "sharp back pain when moving",
+        "dull ache in the spine",
+        "back feels tight and sore",
+        "discomfort while bending or lifting",
+
+        "পিঠে ব্যথা",
+        "কোমর ব্যথা",
+        "মেরুদণ্ডে ব্যথা",
+        "মাজা ব্যথা",
+        "পিঠের নিচে ব্যথা",
+        "পিঠ টান ধরে আছে",
+        "নিচু হলে ব্যথা লাগে",
+        "শিরদাঁড়ায় ব্যথা",
+        "পিঠের ওপর দিকে ব্যথা",
+        "komor betha",
+        "pith betha"
+    ],
+
+    "belly_pain": [
+        "belly pain",
+        "stomach ache",
+        "abdominal_pain",
+        "stomach cramps",
+        "pain in stomach",
+        "tummy hurt",
+        "stomach pain",
+        "pain in abdomen",
+        "lower abdominal pain",
+        "belly ache",
+        "tightness in my stomach",
+        "uncomfortable belly feeling",
+        "soft aching in my tummy",
+        "belly pain that comes and goes",
+        "stomach feels sensitive to touch",
+
+        "পেট ব্যথা",
+        "তলপেটে ব্যথা",
+        "পেট কামড়াচ্ছে",
+        "পেট মোচড় দিয়ে ব্যথা",
+        "নাভির চারপাশে ব্যথা",
+        "পেটে খুব যন্ত্রণা",
+        "পেট টনটন করা",
+        "pet betha"
+    ],
+
+    "blackheads": [
+        "blackheads",
+        "black spots on skin",
+        "skin pores clogged",
+        "dark spots on nose",
+        "pimples",
+        "clogged pores",
+        "acne",
+        "small bumps on skin",
+        "tiny dark bumps on face",
+        "dots on my nose",
+        "rough texture on skin",
+        "pores filled with dirt",
+        "black dots that won't go away",
+
+        "ব্ল্যাকহেডস",
+        "নাকে কালো দাগ",
+        "লোমকূপ বন্ধ হয়ে যাওয়া",
+        "মুখে কালো দানা",
+        "চামড়ায় গুটি গুটি কালো দাগ",
+        "ত্বকে ছোট কালো ফোঁটা",
+        "kalo dag"
+    ],
+
+    "bladder_discomfort": [
+        "bladder pain",
+        "pain when urinating",
+        "discomfort urinating",
+        "burning urination",
+        "frequent urination",
+        "urge to urinate",
+        "stinging feeling in bladder",
+        "pain in bladder",
+        "constant need to pee",
+        "painful urination",
+        "pressure in lower abdomen when peeing",
+        "feeling like bladder is never empty",
+        "uncomfortable urge to urinate",
+        "bladder feels irritated",
+        "pain right before or after urinating",
+
+        "প্রস্রাবে জ্বালাপোড়া",
+        "প্রস্রাব করতে কষ্ট",
+        "ঘন ঘন প্রস্রাব",
+        "মূত্রথলিতে ব্যথা",
+        "প্রস্রাবের বেগ আটকে রাখা যায় না",
+        "তলপেটে চাপ অনুভব করা",
+        "প্রস্রাব ক্লিয়ার হচ্ছে না",
+        "প্রস্রাবের সময় ব্যথা",
+        "বারবার টয়লেটে যাওয়া"
+    ],
+
+    "blister": [
+        "blister",
+        "skin blister",
+        "bubble on skin",
+        "water blister",
+        "fluid-filled bump",
+        "skin bubble",
+        "pimple",
+        "boil",
+        "fluid-filled skin",
+        "skin eruption",
+        "small raised bubble on skin",
+        "skin bump filled with fluid",
+        "tiny bubble that hurts when touched",
+        "skin pocket full of clear liquid",
+        "blister forming from rubbing or heat",
+
+        "ফোস্কা",
+        "চামড়ায় পানি জমা",
+        "পানিবহুল ফুসকুড়ি",
+        "ফোসকা পড়া",
+        "চামড়ায় বুদবুদ",
+        "আগুনে পোড়া ফোস্কা",
+        "ঘর্ষণের ফলে ফোস্কা",
+        "ফুসকুড়ি যাতে পানি আছে",
+        "foshka"
+    ],
+
+    "blood_in_sputum": [
+        "bloody sputum",
+        "coughing up blood",
+        "blood in phlegm",
+        "phlegm with blood",
+        "blood in cough",
+        "bloody mucus",
+        "coughing blood",
+        "blood-streaked sputum",
+        "spitting blood",
+        "mucus mixed with red streaks",
+        "tiny amounts of blood when coughing",
+        "red-tinted phlegm",
+        "cough brings up bloody spots",
+        "blood-tinged mucus",
+
+        "কাশির সাথে রক্ত",
+        "কফের সাথে রক্ত",
+        "রক্ত মেশানো কফ",
+        "থুতুর সাথে রক্ত",
+        "রক্ত থুতু",
+        "গলা দিয়ে রক্ত বের হওয়া",
+        "কাশলে রক্ত আসে",
+        "kof e rokto",
+        "rokto"
+    ],
+
+    "bloody_stool": [
+        "bloody stool",
+        "blood in poop",
+        "blood in stool",
+        "pooping blood",
+        "dark stool",
+        "black stool",
+        "maroon stool",
+        "rectal bleeding",
+        "blood in feces",
+        "blood when I wipe",
+        "red streaks in bowel movement",
+        "toilet water turning red",
+        "stool looks darker than usual",
+        "bright red blood after pooping",
+        "bleeding during bowel movement",
+
+        "পায়খানার সাথে রক্ত",
+        "মলের সাথে রক্ত",
+        "রক্ত আমাশয়",
+        "কালো পায়খানা",
+        "মলদ্বারে রক্তপাত",
+        "পায়খানার রাস্তায় রক্ত",
+        "পায়খানা লালচে হওয়া",
+        "রক্ত মিশ্রিত মল",
+        "paykhanay rokto"
+    ],
+
+    "blurred_and_distorted_vision": [
+        "blur",
+        "blurry vision",
+        "vision blurred",
+        "can't see clearly",
+        "vision distorted",
+        "seeing blurry",
+        "eyesight blurry",
+        "fuzzy vision",
+        "vision unclear",
+        "double vision",
+        "seeing spots",
+        "images look out of focus",
+        "letters appear fuzzy",
+        "vision looks wavy or warped",
+        "hard to make out details",
+        "things look unclear or foggy",
+
+        "ঝাপসা দেখা",
+        "ঝাপসা দৃষ্টি",
+        "চোখে ঝাপসা দেখা",
+        "ঠিকমতো দেখতে না পাওয়া",
+        "দৃষ্টি ঘোলাটে",
+        "চোখে ঝাপসা লাগছে",
+        "ডাবল দেখা",
+        "চোখের সামনে ধোঁয়াশা",
+        "চোখ ঝাপসা হয়ে আসা",
+        "পরিষ্কার দেখতে পাচ্ছি না",
+        "jhapsa"
+    ],
+
+    "breathlessness": [
+        "breathless",
+        "shortness of breath",
+        "can't catch my breath",
+        "difficulty breathing",
+        "hard to breathe",
+        "out of breath",
+        "feeling winded",
+        "panting",
+        "labored breathing",
+        "feeling suffocated",
+        "feeling like I need more air",
+        "breathing feels heavy",
+        "chest feels tight when breathing",
+        "struggling to take deep breaths",
+        "breathing becomes difficult with small effort",
+
+        "শ্বাসকষ্ট",
+        "দম বন্ধ হয়ে আসা",
+        "নিঃশ্বাস নিতে কষ্ট",
+        "হাঁপিয়ে ওঠা",
+        "শ্বাস নিতে পারছি না",
+        "বুক ভার হয়ে আছে",
+        "নিঃশ্বাস ভারি হয়ে যাওয়া",
+        "দম আটকে আসা",
+        "অল্পতেই হাঁপিয়ে যাওয়া",
+        "shash kosto",
+        "dom bondho"
+    ],
+
+    "brittle_nails": [
+        "nails breaking",
+        "nails break easily",
+        "nails are weak",
+        "nails crack easily",
+        "weak nails",
+        "cracked nails",
+        "thin nails",
+        "nails chip easily",
+        "splitting nails",
+        "nails feel fragile",
+        "nails peel in layers",
+        "nails snap with slight pressure",
+        "nails don't grow strong",
+        "nails feel dry and breakable",
+
+        "নখ ভেঙে যাচ্ছে",
+        "নখ দুর্বল",
+        "নখ ফেটে যাওয়া",
+        "নখ পাতলা হয়ে যাওয়া",
+        "একটুতেই নখ ভেঙে যায়",
+        "নখের আগা ফেটে যাওয়া",
+        "নখ নরম হয়ে যাওয়া",
+        "nokh bhenge jacche"
+    ],
+
+    "bruising": [
+        "bruise",
+        "bruise easily",
+        "blue and black marks",
+        "skin discoloration",
+        "easy bruising",
+        "black and blue spots",
+        "unexplained bruises",
+        "skin bruises",
+        "marks appear without injury",
+        "skin bruises from light bumps",
+        "purple spots on skin",
+        "tender blue patches",
+        "skin bruises quickly",
+
+        "কালশিটে",
+        "কালশিটে পড়া",
+        "শরীরে নীল দাগ",
+        "কালো দাগ হয়ে যাওয়া",
+        "আঘাত ছাড়াই দাগ",
+        "চামড়ায় কালচে ছোপ",
+        "রক্ত জমে যাওয়া",
+        "কালশিরা পরা",
+        "শরীরে কালো ছোপ",
+        "kalshite",
+        "nil dag"
+    ],
+
+    "burning_micturition": [
+        "burning pee",
+        "burning when I pee",
+        "painful urination",
+        "burning urination",
+        "stinging when I pee",
+        "hurts to pee",
+        "burning sensation during urination",
+        "pain while urinating",
+        "discomfort when peeing",
+        "hot feeling during urination",
+        "sharp sting while peeing",
+        "pee feels like it's burning",
+        "pain at the start or end of peeing",
+        "urination feels irritated and hot",
+
+        "প্রস্রাবে জ্বালাপোড়া",
+        "প্রস্রাব করার সময় ব্যথা",
+        "প্রস্রাবে কটু ভাব",
+        "মূত্রনালীতে জ্বালা",
+        "প্রস্রাব আটকে আটকে আসা",
+        "প্রস্রাবের রাস্তায় ব্যথা",
+        "প্রস্রাব গরম হওয়া",
+        "জ্বালাজুলি করা",
+        "প্রস্রাব করতে খুব কষ্ট",
+        "prosrab e jala",
+        "jala"
+    ],
+
+    "chest_pain": [
+        "pain",
+        "pain in chest",
+        "chest tightness",
+        "chest pressure",
+        "discomfort in chest",
+        "aching in chest",
+        "chest heaviness",
+        "stabbing pain in chest",
+        "soreness in chest",
+        "sharp chest ache",
+        "pain that spreads across chest",
+        "tight feeling when breathing",
+        "chest hurts when moving",
+        "pressure sitting in the middle of chest",
+
+        "বুক ব্যথা",
+        "বুকে চাপ অনুভব করা",
+        "বুক ভার হয়ে থাকা",
+        "বুকে চিনচিন ব্যথা",
+        "বুকের মাঝখানে ব্যথা",
+        "শ্বাস নিতে বুকে ব্যথা",
+        "বুক জ্বলা",
+        "হার্টে ব্যথা",
+        "বুকে খোঁচা মারা ব্যথা",
+        "buk betha",
+        "buke betha"
+    ],
+
+    "chills": [
+        "chills",
+        "cold",
+        "feeling cold",
+        "shivering",
+        "shivers",
+        "feeling shivery",
+        "goosebumps",
+        "feeling cold and shivery",
+        "body chills",
+        "cold waves running through body",
+        "sudden feeling of coldness",
+        "body trembling from cold",
+        "chill running down my spine",
+        "can't stop shaking from cold",
+
+        "শীত",
+        "শীত করা",
+        "কাঁপুনি",
+        "শরীর কাঁপছে",
+        "শীত শীত ভাব",
+        "গা ছমছম করা",
+        "লোম দাঁড়িয়ে যাওয়া",
+        "কাঁপুনি দিয়ে জ্বর আসা",
+        "ভিতর থেকে ঠান্ডা লাগা",
+        "দাঁতে দাঁত লেগে যাওয়া",
+        "thanda",
+        "shit"
+    ],
+
+    "cold_hands_and_feets": [
+        "cold hands",
+        "cold feet",
+        "hands and feet are cold",
+        "poor circulation",
+        "cold extremities",
+        "cold palms",
+        "cold soles",
+        "hands and feet feel icy",
+        "extremities freezing even in warm weather",
+        "fingers and toes feel numb from cold",
+        "hands and feet never feel warm",
+        "chilly sensation in hands and feet",
+
+        "হাত পা ঠান্ডা",
+        "হাত পা বরফ হয়ে যাওয়া",
+        "রক্ত চলাচল কম",
+        "হাত পা অবশ হয়ে যাওয়া",
+        "হাত পা হিম হয়ে আছে",
+        "পায়ে ঠান্ডা লাগা",
+        "হাতের তালু ঠান্ডা",
+        "haat pa thanda"
+    ],
+
+    "coma": [
+        "coma",
+        "unconscious", "unresponsive", "not waking up", "unarousable",
+        "deep sleep", "in a coma", "lost consciousness", "cannot be woken",
+        "completely unresponsive to touch", "no reaction to sounds or movement",
+        "deep unconscious state", "unable to wake up at all",
+        "body present but no awareness",
+
+        "কোমা", "অজ্ঞান", "জ্ঞান ফিরছে না", "সাড়া দিচ্ছে না",
+        "গভীর ঘুমে আচ্ছন্ন", "চেতনা নেই", "নিথর হয়ে পড়ে আছে",
+        "ডাকলে সাড়া দেয় না", "দীর্ঘদিন অজ্ঞান",
+        "oggyan", "gyan nai"
+    ],
+
+    "congestion": [
+        "congestion",
+        "nasal congestion", "stuffy nose", "blocked nose", "sinus congestion",
+        "chest congestion", "phlegm in chest", "feeling stuffed up",
+        "runny nose", "nose feels clogged", "hard to breathe through nose",
+        "thick mucus blocking airflow", "feeling pressure around nose and forehead",
+        "constant need to sniff",
+
+        "নাক বন্ধ", "সর্দি", "বুকে কফ জমেছে", "নাক জ্যাম হয়ে আছে",
+        "নিঃশ্বাস নিতে কষ্ট", "সাইনাসের সমস্যা", "গলা ও বুকে কফ",
+        "নাক দিয়ে পানি পড়া", "মাথা ভার হয়ে থাকা",
+        "nak bondho", "sordi"
+    ],
+
+    "constipation": [
+        "constipation",
+        "can't poop", "hard to poop", "difficulty passing stool",
+        "irregular bowel movements", "hard stool", "infrequent bowel movements",
+        "backed up", "straining to poop", "poop feels stuck",
+        "going to the toilet but nothing comes out", "stool feels too hard to pass",
+        "takes long time to poop", "uncomfortable fullness due to not pooping",
+
+        "কোষ্ঠকাঠিন্য", "পায়খানা শক্ত", "পায়খানা হচ্ছে না", "কষা পায়খানা",
+        "পেট ক্লিয়ার হচ্ছে না", "মল ত্যাগে কষ্ট", "পায়খানা করতে জোর দিতে হয়",
+        "অনেকদিন পায়খানা হয় না", "মল শক্ত হয়ে যাওয়া",
+        "paykhana kosa", "kosh"
+    ],
+
+    "continuous_feel_of_urine": [
+        "urine urge",
+        "constant urge to urinate", "always feel like I have to pee",
+        "feeling of full bladder", "bladder doesn't feel empty",
+        "incomplete urination feeling", "always need to pee",
+        "urge to pee again", "need to pee all the time",
+        "frequent urge to urinate", "feels like bladder is full even after peeing",
+        "pressure in bladder area all the time",
+        "returning to toilet again and again",
+        "persistent feeling of needing to pee",
+        "can't shake the urge to urinate",
+
+        "বারবার প্রস্রাবের বেগ", "প্রস্রাব ক্লিয়ার হচ্ছে না মনে হয়",
+        "প্রস্রাব করার পরও চাপ থাকে", "একটু পর পর টয়লেটে যাওয়া",
+        "প্রস্রাব আটকে আছে মনে হয়", "ঘন ঘন বাথরুম চাপ",
+        "মুত্রথলি খালি হচ্ছে না", "সবসময় প্রস্রাবের চাপ অনুভব",
+        "bar bar prosrab", "chap"
+    ],
+
+    "continuous_sneezing": [
+        "sneeze",
+        "sneezing",
+        "sneezing a lot", "can't stop sneezing", "sneezing repeatedly",
+        "sneezing over and over", "sneezing fits", "non-stop sneezing",
+        "keep sneezing", "sneezing spell", "uncontrollable sneezing",
+        "sneezing again and again without a break",
+        "bursting into sneezes all day", "constant itch making me sneeze",
+        "sneezing more than usual continuously", "sneezing every few seconds",
+
+        "হাঁচি",
+        "হাঁচি হচ্ছে", "অনবরত হাঁচি", "হাঁচি থামছে না", "বারবার হাঁচি আসছে",
+        "একনাগাড়ে হাঁচি", "নাক সুড়সুড় করে হাঁচি", "হাঁচি দিতে দিতে অস্থির",
+        "ক্রমাগত হাঁচি", "ঘন ঘন হাঁচি",
+        "hachi", "hanchi"
+    ],
+
+    "cough": [
+        "cough",
+        "coughing", "bad cough", "persistent cough", "dry cough",
+        "wet cough", "chesty cough", "hacking cough", "coughing a lot",
+        "can't stop coughing", "chronic cough", "a mild cough",
+        "cough that keeps coming back", "tickle in throat causing cough",
+        "coughing more at night", "constant throat irritation",
+        "cough that won't go away",
+
+        "কাশি", "শুকনো কাশি", "খুসখুসে কাশি", "কাশির দমক",
+        "কাশতে কাশতে জান বের হয়ে যাচ্ছে", "গলা খুসখুস করছে",
+        "কফ কাশি", "পুরানো কাশি", "রাতে কাশি বাড়ে",
+        "কাশির জন্য ঘুমাতে পারছি না",
+        "kashi", "kash"
+    ],
+
+    "cramps": [
+        "cramps",
+        "cramping", "muscle cramps", "stomach cramps", "abdominal cramps",
+        "menstrual cramps", "period cramps", "muscle spasm",
+        "cramping pain", "leg cramps", "painful cramps",
+        "sudden tightening of muscles", "sharp cramp that freezes movement",
+        "muscles pulling painfully", "cramp that comes out of nowhere",
+        "tight painful knot in muscle",
+
+        "টান",
+        "পেশীতে টান", "রগে টান লাগা", "খিল ধরা", "মাংসপেশিতে ব্যথা",
+        "পেট কামড়ানো", "মাসিকের ব্যথা", "পায়ে টান লাগা",
+        "পেশী শক্ত হয়ে যাওয়া", "হঠাৎ করে টান লাগা", "শিরায় টান",
+        "tan laga", "khichuni"
+    ],
+
+    "dark_urine": [
+        "dark urine",
+        "dark pee", "dark colored urine", "dark yellow urine",
+        "orange urine", "brown urine", "pee is dark",
+        "pee is brown", "tea-colored urine", "coke-colored urine",
+        "dark-colored pee", "urine looks darker than normal",
+        "pee has a deep yellow tone", "strong-colored urine",
+        "urine appears unusually dark", "dark and concentrated pee",
+
+        "প্রস্রাব হলুদ", "গাঢ় হলুদ প্রস্রাব", "প্রস্রাবের রঙ লালচে",
+        "কালো প্রস্রাব", "চায়ের মতো প্রস্রাব", "প্রস্রাব কড়া হলুদ",
+        "ঘোলা প্রস্রাব", "প্রস্রাবের রঙ পরিবর্তন",
+        "kalo prosrab", "lal prosrab"
+    ],
+
+    "dehydration": [
+        "thirsty",
+        "thirst",
+        "feeling thirsty", "very thirsty", "dry mouth", "feeling dehydrated",
+        "not drinking enough water", "dark yellow pee", "feeling dizzy",
+        "dry lips", "body feels dried out", "skin feels less elastic",
+        "constant urge to drink water", "mouth feels sticky and dry",
+        "feeling weak from lack of fluids",
+
+        "পিপাসা",
+        "পানিশূন্যতা", "গলা শুকিয়ে আসছে", "খুব পিপাসা পাচ্ছে", "শরীর ডিহাইড্রেটেড লাগছে",
+        "জিহ্বা শুকিয়ে যাওয়া", "প্রস্রাব হলুদ হওয়া", "শরীর কড়া হয়ে যাওয়া",
+        "পানি খাওয়ার পরও পিপাসা মেটে না", "দুর্বল লাগছে",
+        "pipasa"
+    ],
+
+    "depression": [
+        "sad",
+        "feeling sad", "low mood", "feeling down", "loss of interest",
+        "feeling hopeless", "no energy", "feeling worthless", "feeling empty",
+        "not enjoying things", "crying a lot", "feeling numb emotionally",
+        "heavy feeling in the chest", "struggling to find motivation",
+        "feeling mentally drained", "everything feels overwhelming",
+
+        "মন খারাপ", "বিষণ্নতা", "হতাশা", "কিছু ভালো লাগে না",
+        "বেঁচে থাকার ইচ্ছা নেই", "খুব একা লাগে", "কান্নাকাটি করা",
+        "মেজাজ খিটখিটে", "মানসিক কষ্ট", "কোনো কাজে উৎসাহ পাচ্ছি না",
+        "ভিতরটা ফাঁকা লাগে",
+        "mon kharap"
+    ],
+
+    "diarrhoea": [
+        "diarrhea",
+        "loose stools", "watery stool", "loose motion", "runny poop",
+        "upset stomach", "the runs", "frequent bowel movements",
+        "going to the bathroom a lot", "watery poop",
+        "can't control bowel movements", "stomach emptying too quickly",
+        "very frequent loose poop", "constant urge to go to the toilet",
+        "bowel movements are too liquid",
+
+        "ডায়রিয়া", "পাতলা পায়খানা", "পেট খারাপ", "বারবার টয়লেটে যাওয়া",
+        "পানির মতো পায়খানা", "পেট নামা", "বদহজম হয়ে পেট খারাপ",
+        "ঘন ঘন পায়খানা", "পেট একদম লুজ",
+        "patla paykhana"
+    ],
+
+    "dischromic__patches": [
+        "patches",
+        "skin discoloration", "discolored skin patches", "patches on skin",
+        "skin patches", "uneven skin tone", "skin spots",
+        "light skin patches", "dark skin patches", "blotchy skin",
+        "areas of skin look different in color", "skin looks patchy",
+        "uneven pigmentation on skin", "faded or darkened patches on skin",
+        "skin tone varies in different spots",
+
+        "চামড়ায় ছোপ ছোপ দাগ", "চামড়ার রঙ বদলে যাওয়া", "সাদা বা কালো দাগ",
+        "ত্বকে দাগ", "শরীরে চাকা চাকা দাগ", "চামড়া বিবর্ণ হয়ে যাওয়া",
+        "রঙ জ্বলে যাওয়া", "ত্বকের রঙ অসমান",
+        "dag", "chop chop dag"
+    ],
+
+    "distention_of_abdomen": [
+        "bloating",
+        "abdominal swelling", "bloated stomach", "stomach swelling",
+        "bloating", "swollen belly", "belly swelling", "feeling bloated",
+        "stomach feels full and tight", "abdomen enlarged",
+        "stomach feels gassy", "belly feels stretched out",
+        "stomach looks bigger than usual", "tight pressure in the stomach area",
+        "uncomfortable fullness in abdomen", "feeling puffed up in the belly",
+
+        "পেট ফাঁপা", "পেট ফুলে যাওয়া", "পেট ভার হয়ে থাকা",
+        "গ্যাসে পেট ফুলেছে", "পেট ঢোল হয়ে আছে", "পেটে অস্বস্তি",
+        "পেট উঁচু হয়ে আছে", "পেটের ভেতর চাপ অনুভব করা",
+        "খাবার পর পেট ফুলে যায়",
+        "pet fapa", "pet fola"
+    ],
+
+    "dizziness": [
+        "dizzy",
+        "feeling dizzy", "lightheaded", "feeling faint", "room spinning",
+        "vertigo", "loss of balance", "feeling unsteady", "woozy",
+        "feeling off-balance", "head feels light and floaty",
+        "feeling like I'm about to fall", "sensation of spinning or tilting",
+        "unsteady when standing up", "head feels shaky or unstable",
+
+        "মাথা ঘোরা", "মাথা চক্কর দেওয়া", "অজ্ঞান ভাব", "চোখে অন্ধকার দেখা",
+        "সব কিছু ঘুরছে মনে হওয়া", "ভারসাম্য রাখতে না পারা",
+        "মাথা ঝিমঝিম করা", "মনে হচ্ছে পড়ে যাব", "দাঁড়ালে মাথা ঘোরে",
+        "matha ghora"
+    ],
+
+    "drying_and_tingling_lips": [
+        "dry lips",
+        "dry lips", "tingling lips", "chapped lips", "lips feel dry",
+        "lips feel numb", "prickling lips", "pins and needles on lips",
+        "numb lips", "burning lips", "lips feel rough and flaky",
+        "tiny electric-like tingles on lips", "lips feel tight and dry",
+        "itchy or irritated lips", "dryness making lips feel sensitive",
+
+        "ঠোঁট ফাটা", "ঠোঁট জ্বলা", "ঠোঁট ঝিনঝিন করা", "ঠোঁট অবশ লাগা",
+        "ঠোঁট শুকিয়ে যাওয়া", "ঠোঁটে সুঁই ফোটার মতো অনুভূতি",
+        "ঠোঁট খসখসে হয়ে যাওয়া", "ঠোঁটে জ্বালাপোড়া",
+        "thot fata"
+    ],  
+
+    "enlarged_thyroid": [
+        "swollen neck",
+        "swollen neck", "lump in neck", "neck swelling", "goiter",
+        "swelling in front of neck", "tightness in throat",
+        "visible lump on neck", "swollen gland in neck",
+        "neck looks puffier than usual", "fullness or pressure in the throat",
+        "feeling like something is stuck in throat",
+        "enlargement around the lower neck", "discomfort when swallowing",
+
+        "গলা ফোলা", "গলায় চাকা", "ঘ্যাগ", "থাইরয়েড ফুলে যাওয়া",
+        "গলার সামনে ফোলা", "ঢোক গিলতে কষ্ট", "গলায় কিছু আটকে আছে মনে হয়",
+        "গলার গ্রন্থি ফোলা", "গলা ভারী লাগা",
+        "gola fola"
+    ],
+
+    "excessive_hunger": [
+        "hungry",
+        "hunger",
+        "always hungry", "feeling hungry all the time", "increased appetite",
+        "never feel full", "extreme hunger", "polyphagia",
+        "constant hunger", "always want to eat", "famished",
+        "hungry again right after eating", "can't satisfy my appetite",
+        "feeling like I need to eat constantly", "stomach growling all the time",
+        "extreme cravings for food",
+
+        "ক্ষুধা",
+        "খিদে",
+        "খুব ক্ষুধা", "প্রচণ্ড খিদে", "বেশি খিদে পায়",
+        "পেট ভরে না", "সবসময় খেতে ইচ্ছে করে", "অতিরিক্ত ক্ষুধা",
+        "খাওয়ার পরও আবার খিদে", "খিদে পাচ্ছে", "খিদে অসহ্য",
+        "khida", "khide"
+    ],
+
+    "extra_marital_contacts": [
+        "multiple partners", "multiple sexual partners", "unprotected sex",
+        "risky sexual behavior", "sexual history", "contact with multiple people",
+        "affair", "cheating", "promiscuity",
+        "engaging with partners outside relationship",
+        "intimate contact with others", "sexual encounters with different people",
+        "outside relationship intimacy", "frequent sexual interactions",
+
+        "একাধিক সঙ্গীর সাথে সম্পর্ক", "অবৈধ সম্পর্ক", "অনিরাপদ যৌনতা",
+        "বিয়ের বাইরে সম্পর্ক", "বহু সঙ্গীর সাথে যোগাযোগ",
+        "অন্য কারো সাথে ঘনিষ্ঠতা", "যৌনতার ঝুঁকি নেওয়া"
+    ],
+
+    "family_history": [
+        "genetic", "hereditary", "in the family", "runs in the family",
+        "parents have it", "family has this", "genetic predisposition",
+        "family illness", "common condition in relatives",
+        "known issue among family members", "seen in previous generations",
+        "family background includes this", "relatives diagnosed with same issue",
+
+        "বংশগত", "পরিবারের ইতিহাস", "বংশানুক্রমিক",
+        "বাবা মায়ের আছে", "পরিবারের অনেকের আছে", "জেনেটিক",
+        "পারিবারিক রোগ", "পারিবারিকভাবে চলে আসছে"
+    ],
+
+    "fast_heart_rate": [
+        "heart",
+        "heart racing", "fast heartbeat", "palpitations", "heart pounding",
+        "heart fluttering", "tachycardia", "rapid heartbeat",
+        "heart thumping", "racing pulse", "pulse feels faster than normal",
+        "heart beating too quickly", "heart feels like it's speeding up",
+        "fast thumping in my chest", "heartbeat feels out of control",
+
+        "ধড়ফড়",
+        "বুক ধড়ফড়", "দ্রুত হৃদস্পন্দন", "বুকের ভেতর ধুপধুপ",
+        "বুক লাফাচ্ছে", "পালস দ্রুত", "হার্ট দ্রুত চলছে",
+        "বুকের ভেতরে কাঁপছে", "হৃদস্পন্দন বেড়ে যাওয়া",
+        "buk dhorfor"
+    ],
+
+    "fatigue": [
+        "weak",
+        "tired", "very tired", "exhausted", "no energy",
+        "lethargy", "feeling weak", "weakness", "drowsy",
+        "sleepy", "worn out", "low energy", "body feels drained",
+        "hard to stay awake", "constant tiredness",
+        "feeling like I have no strength", "easily tired from simple tasks",
+
+        "ক্লান্তি", "খুব দুর্বল", "শক্তি নেই", "অবসাদ",
+        "ঘুম ঘুম ভাব", "শরীর ভেঙে আসছে", "ক্লান্ত লাগছে",
+        "কোনো কাজ করার শক্তি পাচ্ছি না", "অল্পতেই হাঁপিয়ে যাওয়া",
+        "খুব টায়ার্ড", "ঘুমিয়েও ক্লান্তি যাচ্ছে না",
+        "klanto", "klanti", "durbol"
+    ],
+
+    "fluid_overload": [
+        "swollen",
+        "swelling", "edema", "swollen legs", "swollen ankles",
+        "water retention", "puffy", "swollen feet", "puffy eyes",
+        "bloated", "fluid retention", "body holding too much water",
+        "legs and arms feel puffy", "clothes feel tighter due to swelling",
+        "skin feels stretched from fluid", "ankles swollen by end of day",
+
+        "ফোলা",
+        "শরীর ফোলা", "পা ফোলা", "জল জমা", "হাত-পা ফোলা",
+        "শরীরে পানি আসা", "চোখের নিচে ফোলা", "মুখ ফোলা",
+        "হাত-পায়ে জল জমেছে", "শরীর ভারি লাগা",
+        "fola", "pani joma"
+    ],
+
+    "foul_smell_of_urine": [
+        "smell",
+        "urine smells bad", "strong smelling pee", "bad smelling urine",
+        "fishy smelling urine", "pee smells strong", "unusual urine odor",
+        "strong odor in urine", "pungent urine", "urine has a weird smell",
+        "pee smells stronger than usual", "sharp or unpleasant urine odor",
+        "noticeable smell when urinating", "urine scent seems abnormal",
+
+        "গন্ধ",
+        "প্রস্রাবে দুর্গন্ধ", "প্রস্রাবে বাজে গন্ধ", "কড়া গন্ধ",
+        "প্রস্রাবে মাছের মতো গন্ধ", "অস্বাভাবিক গন্ধ",
+        "প্রস্রাব থেকে পচা গন্ধ আসে", "প্রস্রাব খুব কড়া",
+        "gondho"
+    ],
+
+    "headache": [
+        "headache",
+        "head pain", "my head hurts", "pain in head", "migraine",
+        "splitting headache", "head throbbing", "pressure in head",
+        "dull head pain", "sharp head pain", "head feels heavy and tight",
+        "pulsing pain in the head", "aching sensation in temples",
+        "pain that spreads across the head", "head discomfort that won't stop",
+
+        "মাথা ব্যথা", "মাথা ধরে আছে", "মাইগ্রেন", "মাথা চিনচিন করা",
+        "মাথা ভারি লাগা", "মাথায় চাপ", "মাথায় দপদপ করা",
+        "তীব্র মাথা ব্যথা", "কপালের দু'পাশে ব্যথা",
+        "matha betha"
+    ],
+
+    "high_fever": [
+        "fever",
+        "high temperature", "running a fever",
+        "body temperature is high", "feverish", "spiking a fever",
+        "very hot", "body is hot", "burning up",
+        "body feels extremely hot", "temperature rising quickly",
+        "feeling overheated and flushed", "unusually hot to the touch",
+        "fever that won't go down",
+
+        "জ্বর",
+        "অনেক জ্বর",
+        "তীব্র জ্বর", "খুব বেশি জ্বর", "শরীরের তাপমাত্রা বেশি",
+        "গা গরম", "জ্বর আসছে", "প্রচণ্ড তাপ",
+        "জ্বর কপালে চড়েছে", "জ্বর সহজে নামছে না", "শরীর গরম",
+        "jor", "onek jor", "ga gorom"
+    ],
+
+    "hip_joint_pain": [
+        "hip pain",
+        "hip pain", "pain in hip", "hip hurts", "sore hip",
+        "aching hip", "discomfort in hip", "pain in hip socket",
+        "hip tenderness", "sharp pain when moving hip",
+        "hip feels stiff and sore", "pain spreading to thigh or groin",
+        "hip hurts when walking", "hip discomfort after sitting long",
+
+        "হাঁটুতে ব্যথা", "কোমরের জোড়ায় ব্যথা", "হাঁটুর ব্যথা",
+        "পিঠের নিচে ব্যথা", "ঊরুসন্ধিতে ব্যথা", "হাঁটতে গেলে ব্যথা",
+        "বসে থাকার পর ব্যথা", "নিতম্বে ব্যথা", "পায়ের গোড়ায় ব্যথা",
+        "hantu betha", "hip e betha"
+    ],
+
+    "history_of_alcohol_consumption": [
+        "alcohol",
+        "drinks alcohol", "heavy drinker", "drinks a lot",
+        "alcohol use", "consumes alcohol", "history of drinking",
+        "alcoholic", "alcohol abuse", "drinking problem",
+        "regular alcohol intake", "frequent drinking habits",
+        "long-term alcohol consumption", "drinks often or socially",
+        "pattern of drinking over time",
+
+        "মদ",
+        "মদ পান করে", "অতিরিক্ত মদ্যপান", "অ্যালকোহল গ্রহণ",
+        "মদ খাওয়ার অভ্যাস", "দীর্ঘদিনের মদ্যপানের ইতিহাস",
+        "মদ খাওয়া", "নেশা করা", "মদের প্রতি আসক্তি",
+        "mod"
+    ],
+
+    "increased_appetite": [
+        "hungry",
+        "always hungry", "excessive_hunger", "feeling hungry all the time",
+        "never feel full", "extreme hunger", "polyphagia",
+        "constant hunger", "always want to eat", "famished",
+        "feeling hungry shortly after eating", "strong urge to eat more",
+        "craving food constantly", "stomach growls all the time",
+        "can't satisfy my appetite",
+
+        "খিদে",
+        "খুব ক্ষুধা", "প্রচণ্ড খিদে", "বেশি খিদে পায়",
+        "পেট ভরে না", "সবসময় খেতে ইচ্ছে করে", "অতিরিক্ত ক্ষুধা",
+        "খাওয়ার পরও আবার খিদে", "খিদে অসহ্য",
+        "khide"
+    ],
+
+    "indigestion": [
+        "indigestion",
+        "upset stomach", "stomach discomfort", "gassy",
+        "bloated after eating", "burning in stomach", "after-meal discomfort",
+        "feeling too full", "burping a lot", "gas",
+        "heavy feeling in stomach after meals",
+        "food sits uncomfortably in stomach",
+        "stomach feels uneasy after eating", "acidic taste after meals",
+        "slow digestion making stomach feel tight",
+
+        "বদহজম", "পেট খারাপ", "পেটে অস্বস্তি", "গ্যাস",
+        "পেট ফুলে যাওয়া", "খাওয়ার পর পেট ভার", "ঢেকুর ওঠা",
+        "পেট জ্বালা", "খাবার হজম হচ্ছে না", "পেটে ভুটভাট শব্দ",
+        "bodhojom", "gas"
+    ],
+
+    "inflammatory_nails": [
+        "nail inflammation",
+        "swollen nails", "sore nails", "nails look inflamed",
+        "redness around nails", "puffy skin around nails", "tender nails",
+        "nail bed inflammation", "painful nails", "nails hurt when touched",
+        "skin around nails feels swollen", "nails look red and irritated",
+        "pain near the cuticle", "nail area feels warm and sore",
+
+        "নখের চারপাশে ফোলা", "নখ লাল হয়ে যাওয়া", "নখে ব্যথা",
+        "নখের গোড়ায় জ্বালা", "নখ ফুলে আছে", "নখের চারপাশের ত্বক লাল",
+        "নখের নিচে ব্যথা", "নখ স্পর্শ করলে কষ্ট"
+    ],
+
+    "internal_itching": [
+        "internal itch",
+        "itching inside", "feeling itchy under the skin",
+        "itching sensation inside body", "deep itch",
+        "itching I can't scratch", "body itching inside",
+        "pins and needles feeling", "itching coming from within the body",
+        "strange internal tickling feeling", "itch buried deep under the skin",
+        "persistent inner itchiness", "itching sensation with no visible cause",
+
+        "ভিতর থেকে চুলকানি", "গভীর চুলকানি", "চামড়ার নিচে চুলকানি",
+        "চুলকানি দূর হচ্ছে না", "ভিতরে সুড়সুড়ি", "শরীরের ভেতর চুলকানি",
+        "ভেতরের দিকে চুলকানো", "গাছের নিচে চুলকানি"
+    ],
+
+    "irregular_sugar_level": [
+        "blood sugar",
+        "blood sugar swings", "sugar level high and low", "unstable blood sugar",
+        "sugar fluctuations", "high blood sugar", "low blood sugar",
+        "blood sugar spikes", "blood sugar drops", "blood glucose irregular",
+        "sudden sugar highs and lows", "energy levels changing quickly",
+        "blood sugar not staying steady", "feeling shaky from sugar changes",
+        "unexpected rise or fall in glucose",
+
+        "সুগার",
+        "সুগার ওঠানামা", "রক্তে শর্করার মাত্রা অসমান", "সুগার বেশি কম হচ্ছে",
+        "সুগার অনিয়মিত", "হাই সুগার", "লো সুগার",
+        "রক্তের গ্লুকোজ ঠিক নেই", "হঠাৎ সুগার কমে যাওয়া", "সুগার বেড়ে যাওয়া",
+        "sugar"
+    ],
+
+    "irritability": [
+        "irritated",
+        "easily annoyed", "agitated", "grouchy",
+        "cranky", "short tempered", "moody",
+        "on edge", "easily upset", "fussy",
+        "short fuse", "frustrated over small things",
+        "quick to react emotionally", "feeling tense and annoyed",
+        "hard to stay calm", "snapping at others easily",
+
+        "মেজাজ",
+        "বিরক্তি", "খিটখিটে মেজাজ", "সহজে রেগে যাওয়া",
+        "অস্থিরতা", "মেজাজ খারাপ", "খুব বিরক্ত লাগা",
+        "সহজে ধৈর্য হারানো", "টেনশন", "রাগ সামলাতে না পারা",
+        "mejaj", "rag"
+    ],
+
+    "irritation_in_anus": [
+        "itchy anus", "sore anus", "anal itching",
+        "anal discomfort", "burning anus", "anal irritation",
+        "itchy bottom", "rectal itching",
+        "tingling around the anal area", "uncomfortable sensation in anus",
+        "scratchy feeling near rectum", "itch that gets worse at night",
+        "skin around anus feels irritated",
+
+        "পায়ুপথে চুলকানি", "মলদ্বারে জ্বালা", "পায়খানার রাস্তায় চুলকানি",
+        "মলদ্বারে ব্যথা", "চুলকানির সঙ্গে জ্বালাপোড়া",
+        "পায়ুপথ চুলকায়", "মলদ্বারে অস্বস্তি"
+    ],
+
+    "itching": [
+        "itch",
+        "itchy skin", "itch", "feeling itchy",
+        "skin irritation", "pruritus", "need to scratch",
+        "scratching", "skin is itchy", "general itching",
+        "skin feels ticklish and itchy", "constant urge to scratch",
+        "itching that won't go away", "tingling itch on the body",
+        "itchy feeling spreading across skin",
+
+        "চুলকানি",
+        "চুলকানি", "গা চুলকাচ্ছে", "খোসপাঁচড়া",
+        "ত্বকের জ্বালা", "শরীরে চুলকানো", "চুলকানি হচ্ছে",
+        "খুব চুলকানি", "চামড়ায় চুলকানি",
+        "chulkani"
+    ],
+
+    "joint_pain": [
+        "joint pain",
+        "pain in joints", "sore joints", "aching joints",
+        "stiff joints", "joint discomfort", "joint tenderness",
+        "arthralgia", "joints hurt", "pain in knees",
+        "pain in elbows", "joints feel tight and sore",
+        "pain when moving joints", "joint stiffness after rest",
+        "joints feel swollen and painful",
+        "aching that gets worse with movement",
+
+        "গিঁটে ব্যথা", "হাড়ে ব্যথা", "গাঁটে ব্যথা",
+        "জয়েন্টে ব্যথা", "আর্থ্রাইটিস", "হাঁটুতে ব্যথা",
+        "হাত-পায়ের জোড়ায় ব্যথা", "জোড়া শক্ত হয়ে যাওয়া",
+        "গিঁট ফুলে যাওয়া",
+        "gite betha"
+    ],
+
+    "knee_pain": [
+        "knee pain",
+        "pain in knee", "knee hurts", "sore knee",
+        "aching knee", "joint pain in knee", "knee discomfort",
+        "pain in my knee joint", "stiff knee",
+        "knee feels weak when walking", "sharp knee pain when bending",
+        "knee swelling and soreness", "pain going up or down stairs",
+        "knee feels tight and difficult to move",
+
+        "হাঁটুতে ব্যথা", "হাঁটুর জোড়ায় ব্যথা", "হাঁটু ফুলে যাওয়া",
+        "হাঁটতে গেলে ব্যথা", "সিঁড়ি ভাঙতে কষ্ট", "হাঁটু শক্ত হয়ে আছে",
+        "হাঁটু দুর্বল লাগা", "হাঁটুতে টান ধরা", "হাঁটুতে টনটন ব্যথা",
+        "hantu betha"
+    ],
+
+    "lack_of_concentration": [
+        "focus",
+        "can't concentrate", "can't focus", "difficulty concentrating",
+        "trouble focusing", "brain fog", "mind wandering",
+        "not focused", "easily distracted", "inattentive",
+        "mind feels scattered", "hard to stay mentally present",
+        "thoughts drifting away", "difficulty staying on task",
+        "mental clarity feels low",
+
+        "মনোযোগ",
+        "মনোযোগ নেই", "মন বসছে না", "কোনো কিছুতে মন দিতে পারছি না",
+        "মন বিক্ষিপ্ত", "মনোযোগে ঘাটতি", "মনঃসংযোগে সমস্যা",
+        "মাথা কাজ করছে না", "ভুলে যাওয়া",
+        "monojog nai"
+    ],
+
+    "lethargy": [
+        "lethargy",
+        "lethargic", "sluggish", "no energy", "feeling sluggish",
+        "very tired", "exhausted", "fatigue", "feeling drained",
+        "heavy feeling", "listless", "body feels weighed down",
+        "difficulty getting started with anything", "moving feels like a chore",
+        "energy levels feel extremely low", "feeling slow and inactive",
+
+        "অবসাদ", "ক্লান্তি", "শক্তিহীনতা", "শরীর ম্যাজ ম্যাজ করা",
+        "খুব ক্লান্ত", "দুর্বলতা", "ভারী ভারী ভাব",
+        "কিছু করতে ইচ্ছা করছে না", "শরীর নিস্তেজ",
+        "obosad", "klanto"
+    ],
+
+    "loss_of_appetite": [
+        "no appetite", "don't want to eat", "not hungry",
+        "decreased appetite", "no desire to eat", "poor appetite",
+        "can't eat", "not feeling hungry", "eating less",
+        "food tastes unappealing", "barely eating throughout the day",
+        "forgetting meals because not hungry",
+        "loss of interest in food flavors",
+        "feeling full after just a few bites",
+
+        "খিদে নেই", "খাবারের ইচ্ছা নেই", "ক্ষুধা মন্দা",
+        "কম খাচ্ছি", "কিছু খেতে ইচ্ছা করছে না", "মুখের রুচি কমে যাওয়া",
+        "খাবার দেখলে ভালো লাগে না", "খিদে পাচ্ছে না",
+        "khide nai"
+    ],
+
+    "movement_stiffness": [
+        "stiff",
+        "stiffness", "difficulty moving",
+        "stiff joints", "stiff muscles", "limited range of motion",
+        "not flexible", "feeling stiff", "hard to move",
+        "body feels tight and rigid", "movements feel slow and heavy",
+        "joints not moving smoothly", "muscles resist stretching",
+        "feeling locked when trying to move",
+
+        "শক্ত",
+        "শরীর শক্ত হয়ে যাওয়া", "গিঁট শক্ত", "পেশী শক্ত",
+        "নড়াচড়ায় কষ্ট", "হাত পা জড়সড়", "শরীরে টান ধরা",
+        "নমনীয়তা কমে যাওয়া", "অল্পতেই শক্ত হয়ে যায়",
+        "shokto", "norte kosto"
+    ],
+
+    "mucoid_sputum": [
+        "mucus",
+        "clear phlegm", "clear mucus", "slimy cough",
+        "clear sputum", "mucoid cough", "coughing up clear stuff",
+        "clear mucus from chest", "white phlegm",
+        "thin watery mucus when coughing", "smooth gel-like sputum",
+        "mild, non-colored mucus", "cough bringing up slippery mucus",
+        "transparent chest mucus",
+
+        "স্বচ্ছ কফ", "পাতলা কফ", "কফের সাথে পরিষ্কার শ্লেষ্মা",
+        "সাদা কফ", "কাশির সাথে পিচ্ছিল কফ", "নরম শ্লেষ্মা"
+    ],
+
+    "muscle_pain": [
+        "muscle pain",
+        "muscle ache", "sore muscles", "muscles hurt",
+        "body aches", "muscle soreness", "aching muscles",
+        "myalgia", "pain in muscles", "tender muscles",
+        "muscles feel bruised", "burning sensation in muscles",
+        "pain during simple movements", "muscles feel tight and achy",
+        "lingering soreness after activity",
+
+        "পেশী ব্যথা", "গায়ে হাতে ব্যথা", "মাংসপেশিতে ব্যথা",
+        "শরীর ব্যথা", "পেশী টনটন করা", "পেশীতে জ্বালাপোড়া",
+        "পেশী ফুলে থাকা", "পেশী দুর্বল",
+        "peshi betha", "gaye betha"
+    ],
+
+    "muscle_wasting": [
+        "muscle loss",
+        "muscles getting smaller", "loss of muscle", "muscle atrophy",
+        "muscles shrinking", "muscle loss", "thinning of muscles",
+        "weakening muscles", "muscle deterioration",
+        "muscles look less firm", "arms and legs becoming thinner",
+        "muscles losing shape and strength", "reduced muscle bulk over time",
+        "visible decline in muscle tone",
+
+        "পেশী শুকিয়ে যাওয়া", "পেশী ক্ষয়", "পেশী দুর্বল হওয়া",
+        "পেশী ছোট হয়ে যাচ্ছে", "মাংসপেশির দুর্বলতা",
+        "হাত পা রোগা হয়ে যাচ্ছে", "পেশীর শক্তি কমে যাওয়া"
+    ],
+
+    "muscle_weakness": [
+        "muscle weakness",
+        "weak muscles", "feeling weak", "lack of strength",
+        "weakness", "loss of muscle strength", "feeble muscles",
+        "feeling feeble", "poor muscle strength", "muscles tire out quickly",
+        "hard to lift or hold things", "limbs feel unusually weak",
+        "muscles give out easily", "struggling to apply strength",
+
+        "দুর্বলতা",
+        "পেশীর দুর্বলতা", "শক্তি কমে যাওয়া", "দুর্বল লাগছে",
+        "হাত পা ছেড়ে দিচ্ছে", "ভারী কিছু তুলতে কষ্ট", "পেশী নিস্তেজ",
+        "শরীর দুর্বল হয়ে আসছে", "পেশীতে জোর নেই",
+        "durbolota"
+    ],
+
+    "nausea": [
+        "nausea",
+        "feeling sick", "feel like vomiting", "stomach sickness",
+        "upset stomach", "queasy", "feeling queasy",
+        "sick to my stomach", "want to throw up", "stomach turning",
+        "feeling like I'm going to be sick", "uneasy feeling in stomach",
+        "waves of nausea", "feeling like vomiting but nothing comes out",
+
+        "বমি বমি ভাব", "পেটে অস্বস্তি", "বমি আসতে চাইছে",
+        "শরীর খারাপ লাগছে", "পেট গুলাচ্ছে", "বুক ধরফড় করা",
+        "পেটে কেমন যেন লাগছে", "গা গুলিয়ে ওঠা",
+        "bomi bomi vab"
+    ],
+
+    "neck_pain": [
+        "neck pain",
+        "pain in neck", "sore neck", "neck hurts",
+        "stiff neck", "neck ache", "discomfort in neck",
+        "pain in my neck", "crick in the neck",
+        "neck feels tight and sore", "pain when turning the head",
+        "stiffness after waking up", "tension in the neck area",
+        "neck discomfort spreading to shoulders",
+
+        "ঘাড় ব্যথা", "ঘাড় শক্ত হয়ে আছে", "ঘাড়ের শিরায় টান",
+        "ঘাড় ঘোরাতে কষ্ট", "ঘাড়ের যন্ত্রণা", "ঘাড় ধরে আছে",
+        "ঘাড়ের কাছে ব্যথা", "ঘুম থেকে ওঠার পর ব্যথা",
+        "ghar betha"
+    ],
+
+    "nodal_skin_eruptions": [
+        "skin bumps",
+        "bumps on skin", "skin nodes", "skin lumps",
+        "raised bumps", "hard bumps on skin", "skin nodules",
+        "lumps under skin", "skin lesions",
+        "small firm bumps on the skin",
+        "noticeable hard spots under the skin",
+        "cluster of raised skin nodules",
+        "thickened bumps on skin surface",
+        "skin growths that feel solid",
+
+        "গুটি",
+        "চামড়ায় গুটি", "শক্ত দানা", "চামড়ার নিচে চাকা",
+        "উঁচু উঁচু ফুসকুড়ি", "চামড়ায় ছোট শক্ত গিঁট",
+        "চামড়ায় গুটি বের হওয়া", "চামড়ার নিচে ডেলা",
+        "guti"
+    ],
+
+    "obesity": [
+        "obesity",
+        "overweight", "very overweight", "weight problem",
+        "heavy", "large", "excess weight",
+        "severe weight gain", "being fat",
+        "body weight higher than normal", "carrying too much body fat",
+        "significantly above healthy weight",
+        "struggling with excess body weight",
+        "weight far above recommended levels",
+
+        "স্থূলতা",
+        "স্থূলতা", "অতিরিক্ত ওজন", "ওজনের সমস্যা",
+        "খুব মোটা", "শরীরের ওজন বেশি", "মোটা হয়ে যাওয়া",
+        "বেশি চর্বি জমা", "শরীরের মেদ বৃদ্ধি", "স্বাভাবিকের চেয়ে বেশি ওজন",
+        "mota"
+    ],
+
+    "pain_behind_the_eyes": [
+        "pain",
+        "pain in back of eyes", "eye socket pain", "pressure behind eyes",
+        "headache behind eyes", "pain in eye socket", "eye pain",
+        "retro-orbital pain", "deep ache behind the eyes",
+        "eyes feel pressured from inside", "throbbing pain behind the eyeballs",
+        "pain when moving the eyes", "tight sensation behind the eyes",
+
+        "চোখের পেছনে ব্যথা", "চোখের কোটরে ব্যথা", "চোখের পিছনে চাপ",
+        "চোখ ব্যথা", "চোখ ঘোরালে ব্যথা", "মাথার পেছনে ব্যথা",
+        "চোখের ভেতরের দিকে চাপ", "চোখের গোড়ায় ব্যথা",
+        "chokhe betha"
+    ],
+
+    "pain_during_bowel_movements": [
+        "pain",
+        "hurts to poop", "painful bowel movement", "pain when pooping",
+        "straining to poop", "painful defecation",
+        "discomfort when passing stool", "burning when pooping",
+        "sharp pain while passing stool", "stool causes discomfort",
+        "pain at the start or end of bowel movement",
+        "stinging feeling during pooping",
+        "pooping feels uncomfortable and painful",
+
+        "পায়খানা করার সময় ব্যথা", "মল ত্যাগে কষ্ট", "পায়ুপথে জ্বালা",
+        "পায়খানা করতে চাপ দিতে হয়", "ব্যথাযুক্ত মলত্যাগ",
+        "মলদ্বারে তীব্র ব্যথা", "পায়খানা করতে কষ্ট হয়"
+    ],
+
+    "pain_in_anal_region": [
+        "anal pain",
+        "pain in anus", "rectal pain",
+        "pain around anus", "anus hurts", "soreness in anal area",
+        "discomfort in anal region", "burning in anus", "anal discomfort",
+        "tenderness near the anus", "aching sensation in rectal area",
+        "sharp pain around the anus",
+        "pain when sitting due to anal discomfort",
+        "irritated skin around rectum",
+
+        "মলদ্বারে ব্যথা", "পায়ুপথে ব্যথা", "মলদ্বারের কাছে যন্ত্রণা",
+        "মলদ্বারে জ্বালাপোড়া", "পায়ুপথ টনটন করা", "বসতে গেলে ব্যথা",
+        "মলদ্বারের আশেপাশে ব্যথা", "তীব্র ব্যথা পায়ুপথে"
+    ],
+
+    "painful_walking": [
+        "pain walking",
+        "hurts to walk", "pain when walking", "difficulty walking due to pain",
+        "limping", "pain in legs when walking", "discomfort while walking",
+        "walking is painful", "pain on my feet",
+        "walking feels uncomfortable", "pain increases with each step",
+        "feet or legs hurt while moving", "difficulty taking normal steps",
+        "pain causing slow or altered walking",
+
+        "হাঁটতে গেলে ব্যথা", "হাঁটতে কষ্ট", "খোড়ানো",
+        "পায়ে ব্যথা", "পা ফেলতে কষ্ট হয়", "প্রতি পদক্ষেপে ব্যথা",
+        "হাঁটলে ব্যথা বাড়ে", "পায়ের নিচে ব্যথা",
+        "hat te kosto"
+    ],
+
+    "palpitations": [
+        "palpitations",
+        "heart fluttering", "heart racing", "fast heartbeat",
+        "heart pounding", "skipped heartbeat", "heart skipping a beat",
+        "irregular heartbeat", "rapid heart rate", "heart thumping",
+        "heart feels like it's jumping", "sudden strong heartbeat sensations",
+        "feeling like heart is beating unevenly",
+        "unexpected heart flutters", "heartbeat feels loud or noticeable",
+
+        "বুক ধড়ফড়", "বুক ধরফরানি", "হৃদস্পন্দন বেড়ে যাওয়া",
+        "হার্ট জোরে ধুকপুক করছে", "বুক কাঁপছে", "অনিয়মিত হার্টবিট",
+        "হার্টবিট মিস হওয়া", "বুক লাফানো", "বুকের ভেতরে ধুমধুম শব্দ",
+        "buk dhorfor"
+    ],
+
+    "passage_of_gases": [
+        "gas",
+        "passing gas", "farting", "flatulence",
+        "gassy", "excessive gas", "bloated",
+        "passing wind", "gas", "belching",
+        "releasing gas often", "stomach producing too much gas",
+        "feeling the need to pass gas frequently",
+        "gas buildup causing pressure",
+        "air escaping from stomach or intestines",
+
+        "বায়ু ত্যাগ", "পেটে গ্যাস", "অতিরিক্ত গ্যাস",
+        "ঢেকুর ওঠা", "পেট ফাঁপা", "বাতকর্ম",
+        "ঘন ঘন বায়ু ত্যাগ", "পেটে চাপ", "পেটে ভুটভাট শব্দ"
+    ],
+
+    "patches_in_throat": [
+        "throat spots",
+        "spots in throat", "white patches in throat", "red patches in throat",
+        "sores in throat", "throat lesions", "white spots on tonsils",
+        "patches on tonsils", "throat spots",
+        "irritated blotches in throat", "discolored areas inside throat",
+        "patchy marks near tonsils", "throat looks spotted or patchy",
+        "small infected-looking spots in throat",
+
+        "গলায় ঘা", "গলায় সাদা দাগ", "গলায় লাল ছোপ",
+        "টন্সিলের ওপর দাগ", "গলার ভেতরে ঘা", "গলায় ফোসকা",
+        "গলাতে প্যাচ", "গলাতে ফোলা ফোলা দাগ"
+    ],
+
+    "phlegm": [
+        "phlegm",
+        "mucus in chest", "sputum", "mucus from cough",
+        "chesty cough", "coughing up phlegm", "coughing up mucus",
+        "thick mucus", "chest congestion", "green phlegm",
+        "yellow phlegm", "sticky mucus coming from lungs",
+        "mucus buildup in airways", "phlegm that's hard to clear",
+        "constant need to spit mucus",
+        "heavy mucus interfering with breathing",
+
+        "কফ", "বুকে কফ জমা", "শ্লেষ্মা", "কাশির সাথে কফ",
+        "ঘন কফ", "হলুদ কফ", "সবুজ কফ", "কফ বের হচ্ছে",
+        "কফ ফেলতে হচ্ছে বারবার", "আঠালো কফ",
+        "kof"
+    ],
+
+    "polyuria": [
+        "peeing a lot",
+        "frequent urination", "urinating a lot", "excessive urination",
+        "peeing a lot", "passing a lot of urine", "urinating frequently",
+        "constant urination", "going to the bathroom all the time",
+        "peeing all the time", "large amounts of urine every time",
+        "needing to pee repeatedly day and night",
+        "urine output much higher than normal",
+        "feeling like bladder empties too often",
+        "peeing more than usual without much reason",
+
+        "ঘন ঘন প্রস্রাব", "অতিরিক্ত প্রস্রাব", "বারবার বাথরুমে যাওয়া",
+        "বেশি প্রস্রাব হচ্ছে", "প্রচুর প্রস্রাব", "সারাক্ষণ প্রস্রাবের চাপ",
+        "রাতে বেশি প্রস্রাব", "প্রস্রাবের পরিমাণ বেশি",
+        "beshi prosrab"
+    ],
+
+    "prominent_veins_on_calf": [
+        "veins",
+        "veins sticking out", "bulging veins on legs",
+        "visible veins on calf", "swollen veins on legs",
+        "varicose veins", "spider veins", "twisted veins on calf",
+        "blue veins on legs", "veins look raised on the skin",
+        "rope-like veins on calf", "veins appear enlarged and noticeable",
+        "bulging lines under the skin", "veins more visible when standing",
+
+        "শিরা",
+        "শিরা ফুলে যাওয়া", "পায়ে শিরা দেখা যায়", "নীল শিরা",
+        "রগ ফুলে আছে", "পায়ে জালের মতো শিরা", "ভ্যারিকোস ভেইন",
+        "পায়ের রগগুলো উঁচু হয়ে আছে", "শিরাগুলো স্পষ্ট",
+        "shira", "rog"
+    ],
+
+    "puffy_face_and_eyes": [
+        "puffy",
+        "puffy face", "puffy eyes", "swollen face",
+        "swollen eyes", "face swelling", "eye swelling",
+        "face looks swollen", "eyes look swollen", "bags under eyes",
+        "face looks fuller than usual", "under-eye area looks puffed up",
+        "swelling noticeable around cheeks and eyes",
+        "face feels bloated or heavy", "eyes appear swollen after waking",
+
+        "মুখ ফোলা", "চোখের পাতা ফোলা", "চোখের নিচে ফোলা",
+        "মুখ ফুলে যাওয়া", "চোখ ফুলে আছে", "সকালে চোখ ফোলা",
+        "মুখ ভার ভার লাগা", "গালে ও চোখের চারপাশে ফোলা",
+        "mukh fola"
+    ],
+
+    "pus_filled_pimples": [
+        "pimple",
+        "pimples with pus", "whiteheads", "pustules",
+        "acne", "zits", "boils", "pus bumps",
+        "infected pimples", "spots with pus",
+        "yellow-tipped acne bumps", "pus-filled skin blisters",
+        "inflamed pus spots on face", "pimples that ooze when pressed",
+        "swollen bumps with pus buildup",
+
+        "ব্রণ",
+        "পুঁজ ভরা ব্রণ", "সাদা মাথা যুক্ত ব্রণ", "ফোস্কা",
+        "ব্রণ", "পুঁজ ভর্তি ফুসকুড়ি", "ফোড়া",
+        "পেকে যাওয়া ব্রণ", "পুঁজ বের হয় এমন ব্রণ", "পুঁজ যুক্ত গোটা"
+    ],
+
+    "receiving_blood_transfusion": [
+        "blood transfusion",
+        "had a blood transfusion", "received blood", "blood transfusion history",
+        "got blood from someone", "blood donation recipient",
+        "previous transfusion done",
+        "medical record shows blood transfusion",
+        "was given donor blood in treatment",
+        "history of receiving blood products",
+        "had blood replaced medically",
+
+        "রক্ত দেওয়া হয়েছে", "রক্ত পরিসঞ্চালন হয়েছে", "ব্লাড ট্রান্সফিউশন",
+        "আগে রক্ত নিতে হয়েছিল", "রক্তদান গ্রহণকারী",
+        "চিকিৎসার জন্য রক্ত নেওয়া",
+        "rokto"
+    ],
+
+    "receiving_unsterile_injections": [
+        "injection",
+        "unsterile needles", "dirty needles", "sharing needles",
+        "unsafe injection", "used a dirty needle", "non-sterile injection",
+        "needle sharing", "injection done with unclean syringe",
+        "risk from contaminated needle",
+        "used injection equipment without sterilizing",
+        "exposure due to unsafe needle practices",
+        "needle not properly sanitized",
+
+        "ইনজেকশন",
+        "জীবাণুমুক্ত নয় এমন সূচ", "নোংরা সূচ", "সূচ ভাগাভাগি",
+        "অনিরাপদ ইনজেকশন", "নোংরা সিরিঞ্জ ব্যবহার",
+        "জীবাণুমুক্ত না করা সূচ", "দূষিত সূচ ব্যবহার"
+    ],
+
+    "red_sore_around_nose": [
+        "sore",
+        "sore around nose", "redness around nose", "irritation around nose",
+        "red spot near nose", "sore on nose", "skin sore by nose",
+        "painful spot near nose", "raw skin near the nostrils",
+        "sensitive red patch around nose", "irritated flaky area around nostrils",
+        "red painful bump by the nose edge", "inflamed skin beside the nose",
+
+        "নাকের আশেপাশে ঘা", "নাকের চারপাশে লালচে ভাব", "নাকের গোড়ায় ঘা",
+        "নাকের কাছে লাল দাগ", "নাক জ্বালা করা", "নাকের ধারে ব্যথা",
+        "নাকের নিচে ছিলে যাওয়া", "নাক ও ঠোঁটের সংযোগস্থলে লাল"
+    ],
+
+    "red_spots_over_body": [
+        "red spots",
+        "red spots", "spots on body", "red dots on skin",
+        "body rash", "red blotches", "skin eruption",
+        "rash", "red skin spots", "tiny red patches across skin",
+        "small red marks appearing randomly", "scattered red spots on body",
+        "cluster of red skin dots", "noticeable red specks on skin",
+
+        "লাল দাগ", "শরীরে লাল ছোপ", "গায়ে ফুসকুড়ি",
+        "লাল র‍্যাশ", "ত্বকে ছোট ছোট লাল ফোঁটা", "গায়ে লাল দানা",
+        "চামড়ায় লালচে ভাব", "লাল লাল স্পট",
+        "lal dag"
+    ],
+
+    "redness_of_eyes": [
+        "red eyes",
+        "red eyes", "eyes are red", "bloodshot eyes",
+        "eye redness", "irritated eyes", "pink eye",
+        "sore eyes", "eye irritation", "eyes look inflamed",
+        "whites of eyes appear red", "eyes feel warm and irritated",
+        "veins in eyes look prominent", "persistent redness in eyes",
+
+        "চোখ লাল", "চোখ রক্তবর্ণ", "চোখ জ্বালা করা",
+        "চোখ লাল হয়ে যাওয়া", "চোখ ফোলা", "চোখ চুলকানো",
+        "চোখের সাদা অংশ লাল", "চোখের শিরা স্পষ্ট",
+        "chokh lal"
+    ],
+
+    "restlessness": [
+        "restless",
+        "feeling restless", "can't sit still", "agitated",
+        "fidgety", "on edge", "uneasy",
+        "can't relax", "feeling jumpy", "agitation",
+        "feeling like I need to move constantly",
+        "mind and body won't settle", "unable to stay calm",
+        "constant urge to do something", "feeling unsettled without reason",
+
+        "অস্থিরতা", "উদ্বেগ", "শান্ত থাকতে পারছে না",
+        "গা ম্যাজম্যাজ করা", "ছটফট করা", "উত্তেজনা",
+        "এক জায়গায় বসে থাকতে না পারা", "চাপ অনুভব করা",
+        "chot fot"
+    ],
+
+    "runny_nose": [
+        "runny nose",
+        "nose is running", "sneezing", "nasal discharge",
+        "sniffles", "post-nasal drip", "drippy nose",
+        "watery nose", "congestion", "constant watery nose",
+        "thin mucus dripping from nose", "can't stop wiping my nose",
+        "runny nose that won't dry up", "nose leaking clear fluid",
+
+        "সর্দি",
+        "নাক দিয়ে জল পড়া", "সর্দি ঝরা", "হাঁচি",
+        "নাক দিয়ে পানি পড়া", "নাক দিয়ে সর্দি গড়ানো",
+        "নাক দিয়ে পাতলা সর্দি", "নাক পরিষ্কার করা যাচ্ছে না",
+        "sordi"
+    ],
+
+    "rusty_sputum": [
+        "rusty phlegm",
+        "rust-colored phlegm", "rusty phlegm", "rust-colored mucus",
+        "reddish-brown phlegm", "phlegm is rusty",
+        "coughing up rusty phlegm", "brownish phlegm",
+        "phlegm with a rusty tinge", "dark reddish mucus when coughing",
+        "brown-tinted sputum", "mucus that looks old or stained",
+        "discolored phlegm resembling rust",
+
+        "বাদামী কফ", "জং-এর মতো কফ", "লালচে কফ",
+        "মরচের রঙের কফ", "কফের রঙ কালচে লাল",
+        "কাশির সাথে বাদামী শ্লেষ্মা"
+    ],
+
+    "scurring": [
+        "scabs", "skin scabs", "scabbed skin",
+        "scaly patches", "flaky skin", "skin crusting",
+        "crusty skin", "dry crust forming on skin",
+        "rough scaly areas", "hardened flaky patches",
+        "crusty buildup on skin", "skin forming hardened flakes",
+
+        "খুশকি", "চামড়ায় খোসা ওঠা", "চামড়ায় আঁশ",
+        "চামড়ায় শুকনো স্তর", "ত্বক খসখসে হওয়া", "চামড়া ফেটে যাওয়া",
+        "শুকনো ছাল ওঠা", "চামড়ায় আবরণ পড়া",
+        "khushki"
+    ],
+
+    "shivering": [
+        "shivering",
+        "shaking", "chills", "feeling cold",
+        "shivers", "trembling", "body shivers",
+        "feeling shivery", "teeth chattering from cold",
+        "cold shakes running through body", "uncontrollable trembling",
+        "shivering waves", "body shaking despite warmth",
+
+        "কাঁপুনি", "শীত করা", "ঠান্ডায় কাঁপা",
+        "শরীর থরথর করে কাঁপা", "শীত শীত ভাব", "দাঁতে দাঁত লাগা",
+        "সারা শরীর কাঁপছে", "জ্বর আসার আগে কাঁপা",
+        "kapa", "kapuni"
+    ],
+
+    "silver_like_dusting": [
+        "silver scales",
+        "silvery scales on skin", "silvery skin patches", "silvery dust on skin",
+        "scaly skin", "dandruff-like scales", "flaky silvery skin",
+        "silvery rash", "shiny dry flakes on skin", "thin silver-like skin scales",
+        "fine silvery flakes shedding", "skin looks dusted with silver",
+        "white-silver flaky patches",
+
+        "রূপালী আঁশ", "রূপার মতো গুঁড়ো", "চামড়ায় আঁশের মতো খোসা",
+        "রূপালী ছোপ", "চামড়া থেকে শুকনো স্তর ওঠা", "রূপালী ফ্লেকস",
+        "খুশকির মতো আঁশ", "চকচকে শুকনো খোসা"
+    ],
+
+    "sinus_pressure": [
+        "sinus",
+        "sinus pain", "pressure in sinuses", "headache",
+        "stuffy head", "pain around eyes", "pain in forehead",
+        "facial pressure", "sinus ache", "congestion",
+        "tightness around the cheeks", "fullness in the forehead",
+        "pain that worsens when bending forward",
+        "sinuses feel blocked and heavy", "deep pressure behind the face",
+
+        "সাইনাসের ব্যথা", "সাইনাসে চাপ", "মাথা ভারী",
+        "চোখের চারপাশে ব্যথা", "কপালে ব্যথা", "নাক বন্ধ",
+        "মুখমণ্ডলে চাপ", "নাক ও কপাল ভারী লাগা", "মাথা নিচু করলে ব্যথা বাড়ে",
+        "sinus er betha"
+    ],
+
+    "skin_peeling": [
+        "peeling",
+        "peeling skin", "skin flaking", "flaky skin",
+        "skin shedding", "dry skin peeling", "sunburn peeling",
+        "skin coming off", "loose skin peeling away",
+        "thin layers of skin flaking off", "rough patches shedding skin",
+        "outer skin coming off easily", "skin peeling in small pieces",
+
+        "চামড়া ওঠা", "চামড়া ছাল ছাড়া", "ত্বক উঠে যাওয়া",
+        "শুকনো চামড়া ওঠা", "রোদে পোড়া ছাল ওঠা", "চামড়া খসে যাওয়া",
+        "ত্বক ফ্লেক্স হওয়া", "চামড়া খোসা খোসা হয়ে যাচ্ছে",
+        "chamra uthse"
+    ],
+
+    "skin_rash": [
+        "rash",
+        "skin rash", "red spots", "skin irritation",
+        "skin bumps", "red skin", "eruption",
+        "itchy rash", "blotchy skin", "skin redness",
+        "patchy irritated skin", "tiny red itchy bumps",
+        "rash spreading across skin", "inflamed red patches",
+        "raised irritated skin areas",
+
+        "র‍্যাশ",
+        "চামড়ায় র‍্যাশ", "লাল ফুসকুড়ি", "ত্বকে জ্বালা",
+        "চামড়ায় ছোট ছোট দানা", "চামড়া লাল হওয়া", "ফুসকুড়ি",
+        "চুলকানি যুক্ত র‍্যাশ", "চামড়ায় লাল ছোপ",
+        "rash"
+    ],
+
+    "slurred_speech": [
+        "slurring",
+        "slurring words", "difficulty speaking", "mumbled speech",
+        "unclear speech", "can't speak clearly", "speech is slurred",
+        "trouble speaking", "garbled speech", "words not coming out clearly",
+        "speech sounds thick or slow", "hard to pronounce words properly",
+        "speech seems dragged or heavy", "talking becomes difficult to understand",
+
+        "কথা জড়িয়ে যাওয়া", "কথা অস্পষ্ট", "ঠিকমতো কথা বলতে না পারা",
+        "কথা বলতে কষ্ট", "কথা জট পাকিয়ে যাওয়া", "কথা জড়িয়ে যায়",
+        "ধীরে কথা বলা", "অসংলগ্ন কথা",
+        "kotha joriye jawa"
+    ],
+
+    "small_dents_in_nails": [
+        "nail dents",
+        "nail pitting", "dents in nails", "pitted nails",
+        "small pits on nails", "indentations in nails", "holes in nails",
+        "nail depressions", "tiny dips on the nail surface",
+        "nails look textured with small marks",
+        "fingernails have dot-like indents",
+        "nails appear uneven with tiny dents",
+        "pinpoint hollows on nails",
+
+        "নখে গর্ত", "নখে ছোট ছোট দাগ", "নখে খাঁজ",
+        "নখের ওপর ডট", "নখে দেবে যাওয়া অংশ", "নখ এবড়ো-খেবড়ো",
+        "নখের ওপর ছোট গর্ত"
+    ],
+
+    "spinning_movements": [
+        "spinning",
+        "vertigo", "room spinning", "feeling like the room is spinning",
+        "dizziness", "feeling dizzy", "world spinning",
+        "spinning sensation", "sensation of rotating surroundings",
+        "feeling like I'm tilting or twisting",
+        "balance feels off due to spinning feeling",
+        "whirling sensation in the head",
+        "feels like everything is moving around me",
+
+        "ভার্টিগো", "মাথা ঘোরা", "সবকিছু ঘুরছে মনে হওয়া",
+        "চক্কর দেওয়া", "মাথা ঘুরে পড়া", "ভারসাম্যহীনতা",
+        "মাথা ঝিমঝিম", "চারপাশ ঘুরছে",
+        "chokkor"
+    ],
+
+    "spotting__urination": [
+        "spotting",
+        "spotting", "light bleeding", "bleeding between periods",
+        "urinary spotting", "blood spots in urine",
+        "light bleeding when urinating", "dribbling urine",
+        "tiny drops of blood when peeing", "minor bleeding mixed with urine",
+        "slight reddish tint in urine",
+        "occasional blood spots while urinating",
+        "minimal bleeding during urination",
+
+        "প্রস্রাবে রক্তের ফোঁটা", "প্রস্রাবের সাথে অল্প রক্ত",
+        "প্রস্রাবে হালকা রক্তপাত", "প্রস্রাব করার সময় রক্ত",
+        "প্রস্রাবে লালচে ভাব", "প্রস্রাবে ফোঁটা ফোঁটা রক্ত"
+    ],
+
+    "stiff_neck": [
+        "stiff neck",
+        "neck stiffness", "can't move neck", "neck is stiff",
+        "sore neck", "pain moving neck", "neck pain",
+        "crick in neck", "tight neck muscles",
+        "neck feels locked in place", "difficulty turning the head",
+        "tight pulling sensation in neck", "neck muscles feel hard and tense",
+        "pain when trying to rotate neck",
+
+        "ঘাড় শক্ত", "ঘাড় ব্যথা", "ঘাড় ঘোরাতে কষ্ট",
+        "ঘাড় ধরে আছে", "ঘাড় শক্ত হয়ে যাওয়া", "ঘাড়ের শিরায় টান",
+        "ঘাড় নড়ানো যাচ্ছে না", "ঘাড়ের পেশী শক্ত",
+        "ghar shokto"
+    ],
+
+    "stomach_bleeding": [
+        "bleeding",
+        "vomiting blood", "bloody vomit", "black stool",
+        "dark tarry stool", "blood in vomit", "rectal bleeding",
+        "bloody stool", "coffee ground vomit",
+        "dark, sticky stool indicating bleeding",
+        "red or dark fluid in vomit",
+        "internal bleeding signs from stomach",
+        "blood appearing in digestive output",
+        "vomiting material mixed with dark blood",
+
+        "রক্ত বমি", "কালো পায়খানা", "মলদ্বারে রক্তপাত",
+        "পায়খানার সাথে রক্ত", "বমিতে রক্ত", "পেটের ভেতর রক্তক্ষরণ",
+        "কফির মতো বমি", "গাঢ় কালো মল"
+    ],
+
+    "stomach_pain": [
+        "stomach pain",
+        "abdominal_pain", "belly_pain", "stomach ache",
+        "belly pain", "stomach cramps", "pain in stomach",
+        "tummy hurt", "pain in abdomen", "belly ache",
+        "stomach feels tight and sore", "sharp or dull pain in tummy",
+        "aching sensation in abdomen", "pain coming and going in belly",
+        "stomach discomfort that worsens with movement",
+
+        "পেট ব্যথা", "তলপেটে ব্যথা", "পেট কামড়ানো",
+        "পেটে মোচড়", "পেটের যন্ত্রণা", "পেট টনটন করা",
+        "পেট শক্ত হয়ে থাকা", "পেটে অস্বস্তি", "পেটে তীব্র ব্যথা",
+        "pet betha"
+    ],
+
+    "sunken_eyes": [
+        "sunken eyes",
+        "eyes look hollow", "dark circles", "hollow eyes",
+        "eyes look sunken", "dark circles under eyes",
+        "hollow under eyes", "tired looking eyes",
+        "eyes appear deep-set", "skin under eyes looks thin",
+        "sunken appearance from fatigue",
+        "hollow look beneath eyelids", "eyes look recessed or shadowed",
+
+        "চোখ গর্তে ঢুকে যাওয়া", "চোখের নিচে কালি", "চোখ কোটরে ঢোকা",
+        "চোখ ভেতরের দিকে ঢোকা", "ক্লান্তির ছাপ", "চোখের নিচে গর্ত",
+        "chokher niche kali"
+    ],
+
+    "sweating": [
+        "sweat",
+        "sweat", "sweaty", "excessive sweating",
+        "perspiration", "sweating a lot", "night sweats",
+        "feeling hot and sweaty", "clammy skin",
+        "sweating more than usual", "skin feels damp and sticky",
+        "sweat dripping with minimal effort", "body overheating and sweating",
+        "constant moisture on skin",
+
+        "ঘাম",
+        "ঘাম", "অতিরিক্ত ঘাম", "প্রচণ্ড ঘাম হওয়া",
+        "রাতে ঘাম হওয়া", "শরীর ঘেমে যাওয়া", "ঘামে ভিজে যাওয়া",
+        "ঘাম ঝরছে", "শরীর গরম হয়ে ঘামা", "অতিরিক্ত ঘামা",
+        "gham"
+    ],
+
+    "swelled_lymph_nodes": [
+        "swollen nodes",
+        "swollen glands", "swollen lymph nodes", "lymph nodes are swollen",
+        "lumps in neck", "lumps in armpit", "lumps in groin",
+        "tender glands", "swollen nodes", "painful lumps under skin",
+        "glands feel enlarged and sore", "noticeable swelling in lymph areas",
+        "lymph nodes feel tender to touch", "raised bumps where lymph nodes sit",
+
+        "লিম্ফ নোড ফোলা", "গলায় চাকা", "বগলে চাকা",
+        "কুঁচকিতে ফোলা", "গ্রন্থি ফুলে যাওয়া", "ব্যথাযুক্ত ফোলা",
+        "লিম্ফ নোডে ব্যথা", "গলার নিচে ফোলা", "লিম্ফ গ্ল্যান্ড ফোলা",
+        "chaka"
+    ],
+
+    "swelling_joints": [
+        "swollen joints",
+        "swollen joints", "joint swelling", "puffy joints",
+        "inflammation in joints", "fluid in joints", "swollen knee",
+        "swollen elbow", "joint inflammation",
+        "joints look enlarged and tight", "pain from swollen joint areas",
+        "joints feel warm and swollen", "movement limited due to swelling",
+        "noticeable puffiness around joints",
+
+        "গিঁট ফোলা", "জয়েন্ট ফুলে যাওয়া", "আঁটসাঁট লাগা",
+        "হাঁটু ফোলা", "গিঁটে প্রদাহ", "জোড়ায় পানি জমা",
+        "ব্যথাযুক্ত ফোলা জয়েন্ট", "নড়াচড়ায় কষ্ট",
+        "gite fola"
+    ],
+
+    "swelling_of_stomach": [
+        "stomach swelling",
+        "stomach swelling", "abdominal swelling", "bloated stomach",
+        "swollen belly", "distention_of_abdomen", "stomach distension",
+        "bloating", "belly swelling", "stomach feels swollen",
+        "abdomen looks bigger than normal", "tight stretched feeling in stomach",
+        "fullness and puffiness in belly", "swollen abdomen that feels firm",
+        "stomach puffed up and uncomfortable",
+
+        "পেট ফোলা", "পেট ফাঁপা", "পেট ফুলে যাওয়া",
+        "পেটে চাপ", "পেট ভার হয়ে থাকা", "পেট বড় হয়ে যাওয়া",
+        "পেটে অস্বস্তি", "পেটে গ্যাস", "পেটের স্ফীতি",
+        "pet fola"
+    ],
+
+    "swollen_blood_vessels": [
+        "swollen veins",
+        "bulging veins", "swollen veins", "visible veins",
+        "enlarged blood vessels", "prominent veins", "varicose veins",
+        "veins sticking out", "blood vessels look bigger than normal",
+        "raised and thick veins visible", "veins appear more pronounced",
+        "blood vessels swollen under skin", "veins look larger and more noticeable",
+
+        "শিরা ফুলে যাওয়া", "রগ ফুলে আছে", "রগ উঁচু হয়ে থাকা",
+        "স্পষ্ট শিরা", "ভ্যারিকোস ভেইন", "রক্তনালী বড় হওয়া",
+        "শিরা দেখা যাচ্ছে", "হাত-পায়ের রগ ফোলা",
+        "rog fola"
+    ],
+
+    "swollen_extremeties": [
+        "swollen limbs",
+        "swollen arms", "swollen legs", "swollen hands",
+        "swollen feet", "swelling in arms and legs", "puffy hands and feet",
+        "fluid retention in limbs", "swelling of extremities",
+        "limbs look puffed up", "hands and feet feel heavy due to swelling",
+        "noticeable swelling in arms or legs", "limbs appear bloated",
+        "tightness in swollen arms or legs",
+
+        "হাত পা ফোলা", "হাত পা ফুলে যাওয়া", "শরীরে পানি জমা",
+        "হাত পা ভারি লাগা", "শরীরের শেষ ভাগ ফোলা", "পা ফোলা",
+        "হাত ফোলা", "হাত-পায়ে জল জমেছে",
+        "haat pa fola"
+    ],
+
+    "swollen_legs": [
+        "swollen legs",
+        "legs are swollen", "leg swelling", "puffy legs",
+        "fluid in legs", "swelling in the legs", "edema in legs",
+        "swollen ankles", "swollen calves", "legs feel heavy and enlarged",
+        "lower legs look puffier than usual", "fluid buildup in legs",
+        "tight skin around swollen legs",
+        "legs swelling more at the end of the day",
+
+        "পা ফোলা", "পা ফুলে যাওয়া", "পায়ের গোড়ালি ফোলা",
+        "পায়ে পানি জমা", "পা ভারী লাগা", "পায়ে শোথ",
+        "পায়ের নিচের দিক ফোলা", "গোড়ালি ফোলা",
+        "pa fola"
+    ],
+
+    "throat_irritation": [
+        "sore throat",
+        "scratchy throat", "itchy throat", "sore throat",
+        "irritated throat", "throat feels raw", "dry throat",
+        "tickle in throat", "burning throat",
+        "constant urge to clear throat", "rough feeling in throat",
+        "mild burning inside throat", "throat feels sensitive when swallowing",
+        "irritation that worsens with talking",
+
+        "গলা খুসখুস", "গলা জ্বালা", "গলা ব্যথা",
+        "গলা টিপটপ করা", "গলা শুকিয়ে যাওয়া", "গলা চুলকানো",
+        "গলায় অস্বস্তি", "গলা করকর করা", "ঢোক গিলতে কষ্ট",
+        "gola betha"
+    ],
+
+    "toxic_look_(typhos)": [
+        "sick",
+        "looking very sick", "looking unwell", "appearing very ill",
+        "dazed look", "confused appearance", "sunken eyes",
+        "pale", "glassy-eyed", "lethargic appearance",
+        "face shows severe illness", "eyes look lifeless or dull",
+        "overall sickly appearance", "weak and drained facial expression",
+        "appearance suggests serious illness",
+
+        "খুব অসুস্থ", "শরীর খারাপ", "অসুস্থ দেখাচ্ছে",
+        "চেহারা ফ্যাকাশে", "চোখ কোটরে ঢোকা", "নিস্তেজ চেহারা",
+        "জ্ঞান নেই ভাব", "দুর্বল দেখাচ্ছে", "চোখ ড্যাব ড্যাব করা",
+        "খুব অসুস্থের মতো চেহারা",
+        "oshustho"
+    ],
+
+    "ulcers_on_tongue": [
+        "ulcer",
+        "tongue sores", "sores on tongue", "mouth ulcers",
+        "canker sores on tongue", "painful spots on tongue",
+        "tongue blisters", "white spots on tongue",
+        "tiny painful bumps on tongue", "raw patches on tongue surface",
+        "sensitive tongue ulcers", "small open sores on tongue",
+        "tongue feels tender and sore",
+
+        "জিহ্বায় ঘা", "জিভে ঘা", "মুখে আলসার",
+        "জিভে ফোসকা", "জিভে ব্যথাযুক্ত ফোঁটা", "জিভ ছিলে যাওয়া",
+        "জিভে সাদা দাগ", "জিভ স্পর্শ করলে কষ্ট",
+        "gha"
+    ],
+
+    "unsteadiness": [
+        "unsteady",
+        "unsteady", "feeling unsteady", "loss of balance",
+        "off-balance", "dizzy", "wobbly",
+        "feeling wobbly", "clumsy", "stumbling",
+        "feeling shaky", "difficulty standing still",
+        "legs feel unstable", "walking feels uneven",
+        "body sways unexpectedly", "hard to maintain balance",
+
+        "ভারসাম্যহীনতা", "ভারসাম্য নষ্ট", "মাথা ঘোরা",
+        "পা টলমল করা", "ঠিকমতো দাঁড়াতে না পারা", "টলতে থাকা",
+        "মাথা ঘুরছে", "অস্থিরতা", "পায়ে জোর নেই",
+        "balance nai"
+    ],
+
+    "visual_disturbances": [
+        "vision problems",
+        "vision problems", "blurry vision", "seeing spots",
+        "seeing floaters", "flashing lights", "double vision",
+        "vision blurred", "distorted vision", "vision changes",
+        "difficulty focusing vision", "bright flashes or sparkles",
+        "temporary loss of clarity", "flickering or shifting images",
+        "vision feels unstable or strange",
+
+        "দৃষ্টি সমস্যা", "ঝাপসা দেখা", "আলোর ঝলকানি",
+        "চোখের সামনে দাগ", "ডাবল দেখা", "দৃষ্টি শক্তি পরিবর্তন",
+        "পরিষ্কার দেখতে না পাওয়া", "চোখে ঝাপসা ভাব"
+    ],
+
+    "vomiting": [
+        "vomit",
+        "throwing up", "puking", "sick to my stomach",
+        "nausea", "being sick", "gagging",
+        "heaving", "vomit", "threw up",
+        "bringing food back up", "can't keep anything down",
+        "forceful stomach expulsion", "feeling like everything comes up",
+        "vomiting repeatedly",
+
+        "বমি",
+        "বমি করা", "বমি", "পেট থেকে বমি হওয়া",
+        "বমি বমি ভাব", "উল্টে দেওয়া", "খাবার উঠে আসা",
+        "বারবার বমি", "তীব্র বমি",
+        "bomi"
+    ],
+
+    "watering_from_eyes": [
+        "watery eyes",
+        "watery eyes", "eyes watering", "teary eyes",
+        "tears in eyes", "excessive tearing", "runny eyes",
+        "eyes are watery", "epiphora", "eyes keep tearing up",
+        "constant water flow from eyes",
+        "eyes leaking tears without crying",
+        "wetness around the eyes", "eyes watering due to irritation",
+
+        "চোখ দিয়ে জল পড়া", "চোখ দিয়ে পানি পড়া", "অতিরিক্ত জল ঝরা",
+        "চোখে জল", "চোখ দিয়ে পানি গড়ানো", "চোখ দিয়ে সব সময় পানি পড়ে",
+        "চোখের জল থামে না", "চোখ সর্দি পড়া",
+        "chokhe jol"
+    ],
+
+    "weakness_in_limbs": [
+        "weakness",
+        "weak arms", "weak legs", "limbs feel weak",
+        "arms or legs are weak", "arm weakness", "leg weakness",
+        "loss of strength in arms", "loss of strength in legs",
+        "hard to lift or move limbs", "limbs feel heavy and tired",
+        "reduced strength in arms or legs", "muscles feel powerless",
+        "struggling to use limbs normally",
+
+        "হাত পা দুর্বল", "হাত পায়ে শক্তি নেই", "হাত পা ছেড়ে দিচ্ছে",
+        "হাত পা ভারি লাগা", "পেশীর শক্তি কমে যাওয়া",
+        "হাত পা তুলতে কষ্ট", "হাত পায়ের দুর্বলতা", "অঙ্গপ্রত্যঙ্গ দুর্বল",
+        "hat pa durbol"
+    ],
+
+    "weakness_of_one_body_side": [
+        "one side weak",
+        "one side weak", "weakness on one side",
+        "one side of body is weak", "facial droop",
+        "arm weakness on one side", "leg weakness on one side",
+        "paralysis on one side", "hemiparesis",
+        "one side feels harder to move", "reduced control on one side",
+        "loss of strength on either left or right side",
+        "dragging one side while walking",
+        "noticeable imbalance in strength",
+
+        "শরীরের এক দিক দুর্বল", "এক দিকে শক্তি নেই", "এক দিক অবশ",
+        "মুখ বেঁকে যাওয়া", "এক দিকের হাত পা দুর্বল", "হেমিপারেসিস",
+        "শরীরের এক পাশ নড়াতে কষ্ট", "ডান বা বাম দিক দুর্বল",
+        "ek side durbol"
+    ],
+
+    "weight_gain": [
+        "weight gain",
+        "gaining weight", "put on weight", "weight has increased",
+        "getting heavier", "increased weight", "unexplained weight gain",
+        "sudden weight gain", "obesity", "clothes feeling tighter",
+        "scale shows higher numbers", "body looking fuller than before",
+        "slow but steady weight increase", "unexpected rise in body weight",
+
+        "ওজন বৃদ্ধি", "ওজন বেড়ে যাওয়া", "মোটা হওয়া",
+        "অতিরিক্ত ওজন", "হঠাৎ ওজন বাড়া", "ওজন বাড়ছে",
+        "কাপড় টাইট লাগা", "শরীর ভারী লাগা",
+        "mota hoye jacche"
+    ],
+
+    "weight_loss": [
+        "weight loss",
+        "losing weight", "lost weight", "weight has decreased",
+        "getting thinner", "unexplained weight loss", "sudden weight loss",
+        "dropped weight", "rapid weight loss", "clothes becoming loose",
+        "body looking slimmer unintentionally", "consistent decrease in weight",
+        "weight dropping without trying", "loss of body mass over time",
+
+        "ওজন কমা", "ওজন কমে যাওয়া", "হঠাৎ রোগা হওয়া",
+        "রোগা হয়ে যাওয়া", "ওজন কমছে", "শরীরের ওজন কমে গেছে",
+        "রোগা লাগছে", "কাপড় ঢিলা হয়ে গেছে",
+        "chikon", "roga"
+    ],
+
+    "yellow_crust_ooze": [
+        "ooze",
+        "oozing crust", "yellow crust on skin", "skin oozing",
+        "weeping skin", "oozing sores", "crusty sores",
+        "yellowish crust", "oozing blisters",
+        "sticky yellow discharge on skin", "crust forming over leaking sore",
+        "yellow fluid drying on skin surface",
+        "moist crusty patches on skin", "yellow-tinted ooze from rash",
+
+        "হলুদ আবরণ", "পুঁজ জমে যাওয়া", "ঘা থেকে রস ঝরা",
+        "ঘা শুকিয়ে হলুদ আবরণ", "পুঁজযুক্ত আবরণ", "ত্বক চটচটে হওয়া",
+        "ফোসকা থেকে হলুদ রস বের হওয়া", "ঘায়ে হলুদ স্তর"
+    ],
+
+    "yellow_urine": [
+        "yellow urine",
+        "dark yellow pee", "bright yellow pee", "dark urine",
+        "pee is yellow", "urine is bright yellow", "very yellow urine",
+        "yellow pee", "urine looks unusually yellow",
+        "deep golden-colored pee", "strong yellow-toned urine",
+        "darker-than-normal yellow urine",
+        "highly concentrated yellow pee",
+
+        "হলুদ প্রস্রাব", "গাঢ় হলুদ প্রস্রাব", "প্রস্রাব খুব হলুদ",
+        "কড়া হলুদ প্রস্রাব", "প্রস্রাবের রঙ হলুদ", "প্রস্রাব ঘোলাটে হলুদ",
+        "holud prosrab"
+    ],
+
+    "yellowing_of_eyes": [
+        "yellow eyes",
+        "yellow eyes", "eyes are yellow", "jaundice",
+        "scleral icterus", "yellow tinge in eyes",
+        "whites of eyes are yellow", "jaundiced eyes",
+        "yellow tint on the eye whites", "eyes look stained yellow",
+        "yellow discoloration around the eyeball",
+        "yellowish appearance of eye whites",
+        "eye color turning yellowish",
+
+        "চোখ হলুদ", "চোখের সাদা অংশ হলুদ", "জন্ডিস",
+        "চোখে হলুদ আভা", "চোখ হলুদ হয়ে যাওয়া", "চোখের রঙ হলুদ",
+        "চোখের কোণা হলুদ",
+        "chokh holud"
+    ],
+
+    "yellowish_skin": [
+        "yellow skin",
+        "yellow skin", "skin is yellow", "jaundice",
+        "skin has yellow tinge", "yellow tone to skin", "jaundiced skin",
+        "looking yellow", "skin appears more yellow than usual",
+        "yellow discoloration on face or body", "warm yellow tint to skin tone",
+        "skin turning yellowish over time", "overall yellowish appearance",
+
+        "চামড়া হলুদ", "গা হলুদ", "জন্ডিস", "ত্বক হলুদ হয়ে যাওয়া",
+        "হলুদ রঙ", "শরীর হলুদ আভা", "চেহারা হলুদ",
+        "ত্বকের রঙ হলুদ দেখাচ্ছে", "হলদেটে ভাব",
+        "ga holud"
+    ]
+}

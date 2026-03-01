@@ -1,0 +1,42 @@
+disease,specialist,doctor_category,why
+Fungal infection,Dermatologist,Skin & Hair Specialist,"They diagnose and treat skin fungal infections, rashes, and irritations."
+Allergy,Allergist / Immunologist,Immunology & Allergy Specialist,"They specialize in allergies, immune reactions, and hypersensitivity responses."
+GERD,Gastroenterologist,Digestive System Specialist,"They treat acid reflux, heartburn, and esophagus–stomach disorders."
+Chronic cholestasis,Hepatologist / Gastroenterologist,Liver & Digestive Specialist,They manage bile flow blockages and chronic liver problems.
+Drug Reaction,Dermatologist / Allergist,Skin / Allergy Specialist,"They treat drug rashes, itching, hives, and hypersensitivity."
+Peptic ulcer disease,Gastroenterologist,Digestive System Specialist,They diagnose and manage stomach and intestinal ulcers.
+AIDS,Infectious Disease Specialist,Infection & Immunity Specialist,They manage HIV/AIDS and related infections.
+Diabetes,Endocrinologist,Hormone & Metabolism Specialist,They treat insulin imbalance and metabolic disorders.
+Gastroenteritis,Gastroenterologist,Digestive System Specialist,"They treat vomiting, diarrhea, and stomach infections."
+Bronchial Asthma,Pulmonologist / Allergist,Respiratory Specialist,"They treat wheezing, breathlessness, and lung inflammation."
+Hypertension,Cardiologist / General Physician,Heart & General Medicine,They manage high blood pressure and related complications.
+Migraine,Neurologist,Brain & Nerve Specialist,They diagnose headache disorders and nerve-related pain.
+Cervical spondylosis,Orthopedic Specialist / Neurologist,Bone & Spine Specialist,"They treat neck pain, nerve compression, and spinal degeneration."
+Paralysis (brain hemorrhage),Neurologist / Neurosurgeon,Brain & Emergency Specialist,"They handle strokes, brain bleeding, and nerve damage."
+Jaundice,Hepatologist,Liver Specialist,They diagnose liver dysfunction and bilirubin imbalance.
+Malaria,Infectious Disease Specialist,Infection Specialist,They manage malaria parasites and fever complications.
+Chicken pox,Dermatologist / Infectious Disease Specialist,Skin & Infection Specialist,"They manage viral skin rashes, blisters, and fever."
+Dengue,Infectious Disease Specialist,Infection Specialist,"They treat viral fever, dehydration, and platelet issues."
+Typhoid,Infectious Disease Specialist,Infection Specialist,They treat bacterial gut infections and high fever.
+Hepatitis A,Hepatologist,Liver Specialist,They manage viral liver inflammation.
+Hepatitis B,Hepatologist,Liver Specialist,They manage chronic liver viral infection.
+Hepatitis C,Hepatologist,Liver Specialist,They treat chronic hepatitis and liver damage.
+Hepatitis D,Hepatologist,Liver Specialist,They treat severe liver co-infections.
+Hepatitis E,Hepatologist,Liver Specialist,They manage jaundice and acute liver inflammation.
+Alcoholic hepatitis,Hepatologist / Gastroenterologist,Liver & Digestive Specialist,They treat liver inflammation caused by alcohol.
+Tuberculosis,Pulmonologist / Infectious Disease Specialist,Respiratory & Infection Specialist,They treat lung TB and bacterial infections.
+Common Cold,General Physician / ENT Specialist,General Medicine,"They manage colds, sore throat, and congestion."
+Pneumonia,Pulmonologist,Respiratory Specialist,They treat lung infections and breathing problems.
+Dimorphic hemorrhoids (piles),Proctologist / General Surgeon,Digestive & Surgical Specialist,"They treat anal swelling, pain, and bleeding."
+Heart attack,Cardiologist,Heart & Critical Care Specialist,They treat blocked arteries and cardiac emergencies.
+Varicose veins,Vascular Surgeon,Vascular Specialist,They treat swollen veins and circulation problems.
+Hypothyroidism,Endocrinologist,Hormone & Metabolism Specialist,They treat low thyroid hormone and slow metabolism.
+Hyperthyroidism,Endocrinologist,Hormone & Metabolism Specialist,They manage excess thyroid hormone.
+Hypoglycemia,Endocrinologist,Hormone & Metabolism Specialist,They treat sudden low blood sugar.
+Osteoarthritis,Orthopedic Specialist,Bone & Joint Specialist,"They treat joint pain, stiffness, and cartilage wear."
+Arthritis,Rheumatologist,Bone & Autoimmune Specialist,They treat chronic joint inflammation.
+Vertigo (BPPV),ENT Specialist / Neurologist,Ear–Balance & Neurology Specialist,They treat dizziness caused by inner ear or nerve issues.
+Acne,Dermatologist,Skin Specialist,"They treat pimples, inflammation, and acne scars."
+Urinary tract infection (UTI),Urologist / Nephrologist,Kidney & Urinary Specialist,"They treat urinary pain, infection, and kidney involvement."
+Psoriasis,Dermatologist,Skin & Autoimmune Specialist,They treat chronic autoimmune skin inflammation.
+Impetigo,Dermatologist,Skin Infection Specialist,They treat bacterial skin infections.

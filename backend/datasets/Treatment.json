@@ -1,0 +1,1018 @@
+[
+    {
+        "symptom": "itching",
+        "advice": [
+            "Apply cold compress",
+            "Use mild fragrance-free moisturizer",
+            "Avoid scratching the area"
+        ]
+    },
+    {
+        "symptom": "skin_rash",
+        "advice": [
+            "Keep skin clean and dry",
+            "Apply aloe vera or calamine lotion",
+            "Avoid harsh soaps"
+        ]
+    },
+    {
+        "symptom": "nodal_skin_eruptions",
+        "advice": [
+            "Apply warm compress to soothe swelling",
+            "Avoid touching or squeezing",
+            "Keep the area clean"
+        ]
+    },
+    {
+        "symptom": "dischromic__patches",
+        "advice": [
+            "Use sunscreen regularly",
+            "Moisturize affected areas",
+            "Avoid direct sunlight"
+        ]
+    },
+    {
+        "symptom": "continuous_sneezing",
+        "advice": [
+            "Do steam inhalation for 5–10 minutes",
+            "Keep your room dust-free",
+            "Drink warm fluids"
+        ]
+    },
+    {
+        "symptom": "shivering",
+        "advice": [
+            "Use warm blankets",
+            "Drink warm soups or tea",
+            "Rest adequately"
+        ]
+    },
+    {
+        "symptom": "chills",
+        "advice": [
+            "Stay warm and covered",
+            "Drink warm fluids",
+            "Take rest"
+        ]
+    },
+    {
+        "symptom": "watering_from_eyes",
+        "advice": [
+            "Apply cold compress",
+            "Avoid rubbing the eyes",
+            "Rinse gently with clean water"
+        ]
+    },
+    {
+        "symptom": "stomach_pain",
+        "advice": [
+            "Apply a warm compress on the abdomen",
+            "Drink ORS or warm water",
+            "Eat light, non-spicy foods"
+        ]
+    },
+    {
+        "symptom": "acidity",
+        "advice": [
+            "Avoid spicy and oily foods",
+            "Eat smaller frequent meals",
+            "Drink cold milk or coconut water"
+        ]
+    },
+    {
+        "symptom": "ulcers_on_tongue",
+        "advice": [
+            "Rinse mouth with salt water",
+            "Avoid spicy or acidic foods",
+            "Apply honey or ghee gently on the ulcer"
+        ]
+    },
+    {
+        "symptom": "vomiting",
+        "advice": [
+            "Sip ORS or electrolyte water slowly",
+            "Avoid solid foods for a few hours",
+            "Rest in an upright position"
+        ]
+    },
+    {
+        "symptom": "cough",
+        "advice": [
+            "Drink warm honey-lemon water",
+            "Do steam inhalation",
+            "Avoid cold drinks"
+        ]
+    },
+    {
+        "symptom": "chest_pain",
+        "advice": [
+            "Rest and avoid heavy activity",
+            "Sit upright",
+            "Take slow deep breaths"
+        ]
+    },
+    {
+        "symptom": "yellowish_skin",
+        "advice": [
+            "Increase water intake",
+            "Avoid fatty and fried foods",
+            "Eat fruits like papaya and apple"
+        ]
+    },
+    {
+        "symptom": "nausea",
+        "advice": [
+            "Sip ginger tea in small amounts",
+            "Eat light, dry snacks like toast",
+            "Avoid strong smells and oily foods"
+        ]
+    },
+    {
+        "symptom": "loss_of_appetite",
+        "advice": [
+            "Eat small, frequent meals",
+            "Drink fruit juices or soups",
+            "Avoid heavy fried foods"
+        ]
+    },
+    {
+        "symptom": "abdominal_pain",
+        "advice": [
+            "Place a warm compress over the abdomen",
+            "Avoid spicy or fatty foods",
+            "Drink warm water in sips"
+        ]
+    },
+    {
+        "symptom": "pain_in_anal_region",
+        "advice": [
+            "Take a warm sitz bath for 10–15 minutes",
+            "Increase fiber intake",
+            "Avoid sitting for very long periods"
+        ]
+    },
+    {
+        "symptom": "burning_micturition",
+        "advice": [
+            "Drink plenty of water",
+            "Drink coconut water if available",
+            "Avoid caffeinated and carbonated drinks"
+        ]
+    },
+    {
+        "symptom": "spotting_ urination",
+        "advice": [
+            "Increase hydration with water or ORS",
+            "Avoid tight synthetic underwear",
+            "Drink cranberry juice if possible"
+        ]
+    },
+    {
+        "symptom": "passage_of_gases",
+        "advice": [
+            "Avoid beans and carbonated drinks",
+            "Walk for 10–15 minutes after meals",
+            "Drink warm water after eating"
+        ]
+    },
+    {
+        "symptom": "internal_itching",
+        "advice": [
+            "Drink more water throughout the day",
+            "Wear loose cotton clothing",
+            "Maintain good personal hygiene"
+        ]
+    },
+    {
+        "symptom": "indigestion",
+        "advice": [
+            "Drink ginger or mint tea",
+            "Eat small light meals",
+            "Avoid lying down immediately after eating"
+        ]
+    },
+    {
+        "symptom": "muscle_wasting",
+        "advice": [
+            "Eat protein-rich foods like eggs, lentils, milk",
+            "Do light stretching exercises if possible",
+            "Drink milk or nutritious supplements if available"
+        ]
+    },
+    {
+        "symptom": "patches_in_throat",
+        "advice": [
+            "Gargle with warm salt water",
+            "Drink warm liquids like soup or tea",
+            "Avoid cold or iced foods"
+        ]
+    },
+    {
+        "symptom": "high_fever",
+        "advice": [
+            "Use a cold sponge bath or wet cloth on forehead",
+            "Drink ORS or water frequently",
+            "Take complete rest"
+        ]
+    },
+    {
+        "symptom": "breathlessness",
+        "advice": [
+            "Sit upright with back supported",
+            "Take slow deep breaths",
+            "Keep the room cool and well ventilated"
+        ]
+    },
+    {
+        "symptom": "sweating",
+        "advice": [
+            "Stay hydrated with water or ORS",
+            "Wear light cotton clothing",
+            "Rest in a cool place"
+        ]
+    },
+    {
+        "symptom": "dehydration",
+        "advice": [
+            "Drink ORS frequently",
+            "Sip coconut water if available",
+            "Avoid caffeine and soft drinks"
+        ]
+    },
+    {
+        "symptom": "headache",
+        "advice": [
+            "Rest in a quiet, dark room",
+            "Apply a cold compress on the forehead",
+            "Drink enough water"
+        ]
+    },
+    {
+        "symptom": "constipation",
+        "advice": [
+            "Eat high-fiber foods like fruits and vegetables",
+            "Drink warm water, especially in the morning",
+            "Take a short walk daily"
+        ]
+    },
+    {
+        "symptom": "pain_during_bowel_movements",
+        "advice": [
+            "Take a warm sitz bath",
+            "Increase water and fiber intake",
+            "Avoid very spicy foods"
+        ]
+    },
+    {
+        "symptom": "bloody_stool",
+        "advice": [
+            "Increase fiber in diet",
+            "Avoid straining during bowel movements",
+            "Drink more water through the day"
+        ]
+    },
+    {
+        "symptom": "irritability",
+        "advice": [
+            "Practice deep breathing for a few minutes",
+            "Take short breaks and rest",
+            "Avoid excess caffeine"
+        ]
+    },
+    {
+        "symptom": "muscle_pain",
+        "advice": [
+            "Apply a warm compress to the muscle",
+            "Do gentle stretching",
+            "Stay hydrated"
+        ]
+    },
+    {
+        "symptom": "altered_sensorium",
+        "advice": [
+            "Ensure the person is hydrated",
+            "Keep them in a quiet, calm environment",
+            "Let them rest and avoid mental stress"
+        ]
+    },
+    {
+        "symptom": "runny_nose",
+        "advice": [
+            "Do steam inhalation",
+            "Drink warm fluids",
+            "Avoid very cold air or drinks"
+        ]
+    },
+    {
+        "symptom": "congestion",
+        "advice": [
+            "Inhale steam for 5–10 minutes",
+            "Drink warm water frequently",
+            "Use a warm towel on the face"
+        ]
+    },
+    {
+        "symptom": "loss_of_smell",
+        "advice": [
+            "Do regular steam inhalation",
+            "Smell natural scents like mint or citrus gently",
+            "Stay hydrated"
+        ]
+    },
+    {
+        "symptom": "fast_heart_rate",
+        "advice": [
+            "Sit or lie down and rest",
+            "Take slow, deep breaths",
+            "Avoid tea, coffee, and energy drinks"
+        ]
+    },
+    {
+        "symptom": "mild_fever",
+        "advice": [
+            "Drink plenty of water",
+            "Take adequate rest",
+            "Eat light, easy-to-digest foods"
+        ]
+    },
+    {
+        "symptom": "mild_skin_irritation",
+        "advice": [
+            "Apply aloe vera gel or soothing lotion",
+            "Keep the skin clean and dry",
+            "Avoid scented or harsh skin products"
+        ]
+    },
+    {
+        "symptom": "dark_urine",
+        "advice": [
+            "Drink water frequently",
+            "Avoid soft drinks and energy drinks",
+            "Drink coconut water if possible"
+        ]
+    },
+    {
+        "symptom": "clay_colored_stool",
+        "advice": [
+            "Stay well hydrated",
+            "Avoid oily and fatty foods",
+            "Eat light meals like rice and boiled vegetables"
+        ]
+    },
+    {
+        "symptom": "fatigue",
+        "advice": [
+            "Sleep 7–8 hours at night",
+            "Drink enough water",
+            "Do light exercise like walking"
+        ]
+    },
+    {
+        "symptom": "weight_loss",
+        "advice": [
+            "Eat calorie-dense foods like nuts and dairy",
+            "Eat something every 2–3 hours",
+            "Drink milk or fruit smoothies"
+        ]
+    },
+    {
+        "symptom": "restlessness",
+        "advice": [
+            "Practice deep breathing slowly",
+            "Reduce screen time before sleep",
+            "Drink a warm, non-caffeinated drink"
+        ]
+    },
+    {
+        "symptom": "lethargy",
+        "advice": [
+            "Stay hydrated through the day",
+            "Do light stretching or walking",
+            "Try to get regular sleep"
+        ]
+    },
+    {
+        "symptom": "abdominal bloating",
+        "advice": [
+            "Avoid carbonated drinks",
+            "Walk for 10–15 minutes after meals",
+            "Drink warm water"
+        ]
+    },
+    {
+        "symptom": "throat_irritation",
+        "advice": [
+            "Gargle with warm salt water",
+            "Drink honey in warm water",
+            "Avoid very cold drinks"
+        ]
+    },
+    {
+        "symptom": "weak_pulse",
+        "advice": [
+            "Drink water or ORS",
+            "Lie down and rest",
+            "Eat small, light meals"
+        ]
+    },
+    {
+        "symptom": "slurred_speech",
+        "advice": [
+            "Keep the person calm and rested",
+            "Offer water in small sips",
+            "Reduce surrounding noise and stress"
+        ]
+    },
+    {
+        "symptom": "stiff_neck",
+        "advice": [
+            "Apply a warm compress on the neck",
+            "Do gentle neck stretches",
+            "Maintain good posture while sitting"
+        ]
+    },
+    {
+        "symptom": "swollen_legs",
+        "advice": [
+            "Elevate legs while resting",
+            "Reduce salt intake",
+            "Do gentle ankle and leg movements"
+        ]
+    },
+    {
+        "symptom": "swollen_blood_vessels",
+        "advice": [
+            "Apply a warm compress",
+            "Avoid standing or sitting for very long",
+            "Do gentle massage if not painful"
+        ]
+    },
+    {
+        "symptom": "painful_walking",
+        "advice": [
+            "Rest your feet often",
+            "Use warm compress on painful areas",
+            "Wear soft, comfortable footwear"
+        ]
+    },
+    {
+        "symptom": "joint_pain",
+        "advice": [
+            "Apply warm compress to the joint",
+            "Do gentle range-of-motion exercises",
+            "Avoid heavy physical strain"
+        ]
+    },
+    {
+        "symptom": "hip_joint_pain",
+        "advice": [
+            "Rest the hip as much as possible",
+            "Apply warm compress",
+            "Avoid lifting heavy weights"
+        ]
+    },
+    {
+        "symptom": "knee_pain",
+        "advice": [
+            "Use an ice pack or warm pack on the knee",
+            "Elevate the leg when resting",
+            "Do gentle knee bending exercises"
+        ]
+    },
+    {
+        "symptom": "back_pain",
+        "advice": [
+            "Apply warm compress on the back",
+            "Avoid sitting or standing too long",
+            "Do gentle stretching or yoga"
+        ]
+    },
+    {
+        "symptom": "neck_pain",
+        "advice": [
+            "Use a warm compress on the neck",
+            "Practice gentle neck rotations",
+            "Maintain good posture while working"
+        ]
+    },
+    {
+        "symptom": "dizziness",
+        "advice": [
+            "Sit or lie down immediately",
+            "Drink water slowly",
+            "Take deep, slow breaths"
+        ]
+    },
+    {
+        "symptom": "spinning_sensation",
+        "advice": [
+            "Sit or lie still in a comfortable position",
+            "Avoid sudden head movements",
+            "Drink water in small sips"
+        ]
+    },
+    {
+        "symptom": "loss_of_balance",
+        "advice": [
+            "Sit and rest until stable",
+            "Avoid walking alone or on uneven surfaces",
+            "Stay hydrated"
+        ]
+    },
+    {
+        "symptom": "scaly_skin",
+        "advice": [
+            "Apply moisturizer regularly",
+            "Avoid very hot showers",
+            "Use gentle, non-drying soaps"
+        ]
+    },
+    {
+        "symptom": "red_patches",
+        "advice": [
+            "Apply aloe vera or soothing lotion",
+            "Avoid scratching",
+            "Keep the area cool and clean"
+        ]
+    },
+    {
+        "symptom": "small_blisters",
+        "advice": [
+            "Keep the area clean and dry",
+            "Avoid bursting the blisters",
+            "Use a cold compress to reduce discomfort"
+        ]
+    },
+    {
+        "symptom": "skin_peeling",
+        "advice": [
+            "Moisturize the skin frequently",
+            "Avoid hot water on the area",
+            "Use mild, fragrance-free soaps"
+        ]
+    },
+    {
+        "symptom": "painful_skin",
+        "advice": [
+            "Apply a cold compress",
+            "Avoid touching or rubbing the area",
+            "Keep the skin well hydrated"
+        ]
+    },
+    {
+        "symptom": "pus_filled_skin",
+        "advice": [
+            "Clean the area gently with mild soap and water",
+            "Avoid squeezing or popping",
+            "Use a warm compress to help drainage"
+        ]
+    },
+    {
+        "symptom": "painful_pus_pockets",
+        "advice": [
+            "Apply warm compress several times a day",
+            "Keep the area clean and dry",
+            "Avoid putting pressure on the area"
+        ]
+    },
+    {
+        "symptom": "burning_sensation",
+        "advice": [
+            "Apply a cold compress if on skin",
+            "Avoid spicy and very hot foods if internal",
+            "Drink plenty of water"
+        ]
+    },
+    {
+        "symptom": "frequent_urine",
+        "advice": [
+            "Drink water evenly through the day",
+            "Avoid caffeine and sugary drinks",
+            "Empty the bladder fully each time"
+        ]
+    },
+    {
+        "symptom": "painful_urination",
+        "advice": [
+            "Drink coconut water or plain water frequently",
+            "Apply warm compress on the lower abdomen",
+            "Avoid spicy and very salty foods"
+        ]
+    },
+    {
+        "symptom": "lower_abdominal_pain",
+        "advice": [
+            "Use a warm compress on the lower abdomen",
+            "Do gentle stretching if comfortable",
+            "Drink warm water"
+        ]
+    },
+    {
+        "symptom": "foul_smell_urine",
+        "advice": [
+            "Increase daily water intake",
+            "Drink cranberry juice if possible",
+            "Avoid dehydration and hold-back urine"
+        ]
+    },
+    {
+        "symptom": "pelvic_pain",
+        "advice": [
+            "Rest and avoid heavy activities",
+            "Apply warm compress on the pelvic area",
+            "Wear comfortable, loose clothing"
+        ]
+    },
+    {
+        "symptom": "urinary_pressure",
+        "advice": [
+            "Drink water in small frequent sips",
+            "Avoid caffeine and soda",
+            "Empty the bladder regularly"
+        ]
+    },
+    {
+        "symptom": "swollen_feet",
+        "advice": [
+            "Elevate your feet when resting",
+            "Reduce salt in food",
+            "Move your ankles gently every hour"
+        ]
+    },
+    {
+        "symptom": "mild_chest_discomfort",
+        "advice": [
+            "Sit and rest calmly",
+            "Practice slow deep breathing",
+            "Avoid heavy or greasy meals"
+        ]
+    },
+    {
+        "symptom": "body_pain",
+        "advice": [
+            "Take a warm bath or shower",
+            "Do light stretching exercises",
+            "Stay hydrated with water or herbal tea"
+        ]
+    },
+    {
+        "symptom": "viral_fever",
+        "advice": [
+            "Drink ORS or plenty of fluids",
+            "Rest as much as possible",
+            "Eat light, easy-to-digest foods"
+        ]
+    },
+    {
+        "symptom": "chills_with_fever",
+        "advice": [
+            "Use a warm blanket",
+            "Drink warm fluids frequently",
+            "Rest in a comfortable position"
+        ]
+    },
+    {
+        "symptom": "joint_swelling",
+        "advice": [
+            "Apply a cold pack on the joint",
+            "Rest the joint and avoid pressure",
+            "Elevate the limb if possible"
+        ]
+    },
+    {
+        "symptom": "bleeding_gums",
+        "advice": [
+            "Rinse mouth with warm salt water",
+            "Use a soft toothbrush",
+            "Increase vitamin C-rich foods like oranges"
+        ]
+    },
+    {
+        "symptom": "skin_bruising",
+        "advice": [
+            "Apply a cold compress on the bruise",
+            "Rest the affected area",
+            "Elevate the limb if there is swelling"
+        ]
+    },
+    {
+        "symptom": "nosebleed",
+        "advice": [
+            "Sit up and lean slightly forward",
+            "Pinch the soft part of the nose for 10 minutes",
+            "Apply a cold pack on the nose bridge"
+        ]
+    },
+    {
+        "symptom": "dry_lips",
+        "advice": [
+            "Use lip balm or petroleum jelly",
+            "Drink more water",
+            "Avoid licking your lips frequently"
+        ]
+    },
+    {
+        "symptom": "cracked_skin",
+        "advice": [
+            "Apply thick moisturizer or petroleum jelly",
+            "Avoid very hot showers",
+            "Wear gloves or socks if skin is on hands/feet"
+        ]
+    },
+    {
+        "symptom": "sunken_eyes",
+        "advice": [
+            "Drink water and ORS",
+            "Rest adequately",
+            "Eat fruits with high water content"
+        ]
+    },
+    {
+        "symptom": "dehydration_signs",
+        "advice": [
+            "Drink ORS at intervals",
+            "Sip coconut water if available",
+            "Rest in a cool environment"
+        ]
+    },
+    {
+        "symptom": "weak_muscles",
+        "advice": [
+            "Do light stretching exercises",
+            "Eat protein-rich foods",
+            "Drink enough water"
+        ]
+    },
+    {
+        "symptom": "frequent_diarrhea",
+        "advice": [
+            "Drink ORS after each loose stool",
+            "Eat banana, rice, or toast",
+            "Avoid milk and spicy foods"
+        ]
+    },
+    {
+        "symptom": "stomach_cramps",
+        "advice": [
+            "Apply a warm compress on the abdomen",
+            "Drink warm water slowly",
+            "Avoid heavy or greasy meals"
+        ]
+    },
+    {
+        "symptom": "dry_cough",
+        "advice": [
+            "Drink warm honey water",
+            "Do steam inhalation regularly",
+            "Avoid dusty or cold environments"
+        ]
+    },
+    {
+        "symptom": "wet_cough",
+        "advice": [
+            "Do steam inhalation to loosen mucus",
+            "Drink warm water often",
+            "Avoid cold drinks"
+        ]
+    },
+    {
+        "symptom": "chest_congestion",
+        "advice": [
+            "Inhale steam for 5–10 minutes",
+            "Drink warm herbal teas",
+            "Do gentle chest tapping to help loosen mucus"
+        ]
+    },
+    {
+        "symptom": "breath_difficulty",
+        "advice": [
+            "Sit upright with back supported",
+            "Take slow deep breaths",
+            "Keep the room fresh and ventilated"
+        ]
+    },
+    {
+        "symptom": "sinus_pressure",
+        "advice": [
+            "Place a warm towel over the face",
+            "Do steam inhalation",
+            "Drink warm water or herbal tea"
+        ]
+    },
+    {
+        "symptom": "cold_sweat",
+        "advice": [
+            "Sit or lie down and rest",
+            "Drink water slowly",
+            "Practice slow deep breathing"
+        ]
+    },
+    {
+        "symptom": "shaky_hands",
+        "advice": [
+            "Drink water",
+            "Eat a small snack",
+            "Rest in a calm environment"
+        ]
+    },
+    {
+        "symptom": "trembling",
+        "advice": [
+            "Practice deep breathing",
+            "Drink a warm, non-caffeinated drink",
+            "Sit or lie down to rest"
+        ]
+    },
+    {
+        "symptom": "weakness",
+        "advice": [
+            "Stay hydrated with water or ORS",
+            "Eat small, frequent meals",
+            "Take enough rest"
+        ]
+    },
+    {
+        "symptom": "swollen_glands",
+        "advice": [
+            "Apply a warm compress to the area",
+            "Rest properly",
+            "Drink plenty of fluids"
+        ]
+    },
+    {
+        "symptom": "enlarged_nodes",
+        "advice": [
+            "Use a warm compress on the area",
+            "Avoid pressing or massaging",
+            "Rest in a comfortable position"
+        ]
+    },
+    {
+        "symptom": "swollen_eyes",
+        "advice": [
+            "Apply a cold compress gently",
+            "Reduce salt intake",
+            "Get proper sleep"
+        ]
+    },
+    {
+        "symptom": "face_puffiness",
+        "advice": [
+            "Use a cold compress on the face",
+            "Reduce salty foods",
+            "Drink enough water"
+        ]
+    },
+    {
+        "symptom": "body_heaviness",
+        "advice": [
+            "Take a light walk",
+            "Drink water or herbal tea",
+            "Take a warm bath if possible"
+        ]
+    },
+    {
+        "symptom": "slow_movement",
+        "advice": [
+            "Do gentle stretching",
+            "Take short walks",
+            "Maintain regular sleep schedule"
+        ]
+    },
+    {
+        "symptom": "tremors",
+        "advice": [
+            "Practice deep and slow breathing",
+            "Stay hydrated",
+            "Rest in a calm place"
+        ]
+    },
+    {
+        "symptom": "rapid_breathing",
+        "advice": [
+            "Sit down and relax",
+            "Slowly inhale through the nose and exhale through the mouth",
+            "Loosen tight clothing"
+        ]
+    },
+    {
+        "symptom": "confusion",
+        "advice": [
+            "Keep the environment quiet and calm",
+            "Ensure they drink water",
+            "Encourage rest and sleep"
+        ]
+    },
+    {
+        "symptom": "memory_loss",
+        "advice": [
+            "Keep calm and avoid arguments",
+            "Encourage regular hydration",
+            "Ensure adequate sleep and rest"
+        ]
+    },
+    {
+        "symptom": "blurred_vision",
+        "advice": [
+            "Rest your eyes frequently",
+            "Blink often and look away from screens",
+            "Apply a cold compress over closed eyes"
+        ]
+    },
+    {
+        "symptom": "eye_redness",
+        "advice": [
+            "Apply a cold compress to closed eyes",
+            "Rinse eyes gently with clean water",
+            "Avoid rubbing the eyes"
+        ]
+    },
+    {
+        "symptom": "eye_pain",
+        "advice": [
+            "Rest eyes in a dim room",
+            "Apply a cold compress gently",
+            "Avoid using screens or bright lights"
+        ]
+    },
+    {
+        "symptom": "watery_eyes",
+        "advice": [
+            "Use a cold compress",
+            "Avoid wind and dust exposure",
+            "Clean around the eyes with a soft, wet cloth"
+        ]
+    },
+    {
+        "symptom": "dry_eyes",
+        "advice": [
+            "Blink often, especially while using screens",
+            "Use a warm compress on closed eyes",
+            "Drink plenty of water"
+        ]
+    },
+    {
+        "symptom": "light_sensitivity",
+        "advice": [
+            "Rest in a dark or dimly lit room",
+            "Wear sunglasses in bright light",
+            "Avoid screen use for some time"
+        ]
+    },
+    {
+        "symptom": "hearing_loss",
+        "advice": [
+            "Avoid loud noises",
+            "Rest your ears in a quiet place",
+            "Keep ears dry and avoid inserting objects"
+        ]
+    },
+    {
+        "symptom": "ear_pain",
+        "advice": [
+            "Apply a warm compress over the ear",
+            "Avoid inserting anything into the ear",
+            "Rest on the opposite side of the pain"
+        ]
+    },
+    {
+        "symptom": "ear_fullness",
+        "advice": [
+            "Yawn or swallow frequently",
+            "Apply a warm cloth over the ear",
+            "Avoid sudden altitude changes if possible"
+        ]
+    },
+    {
+        "symptom": "sore_throat",
+        "advice": [
+            "Gargle with warm salt water frequently",
+            "Drink warm fluids like soup or tea",
+            "Avoid cold and fizzy drinks"
+        ]
+    },
+    {
+        "symptom": "difficulty_swallowing",
+        "advice": [
+            "Eat soft, mashed foods",
+            "Drink warm liquids slowly",
+            "Take small bites and chew well"
+        ]
+    },
+    {
+        "symptom": "hoarse_voice",
+        "advice": [
+            "Rest your voice and avoid talking loudly",
+            "Drink warm water or herbal tea",
+            "Avoid shouting or whispering"
+        ]
+    },
+    {
+        "symptom": "swollen_throat",
+        "advice": [
+            "Gargle with warm salt water gently",
+            "Drink warm, soothing liquids",
+            "Rest your voice as much as possible"
+        ]
+    }
+]
